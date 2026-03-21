@@ -1,0 +1,4 @@
+pandas
+networkx>=3.0
+python-louvain
+matplotlib

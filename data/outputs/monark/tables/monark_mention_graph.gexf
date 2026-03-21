@@ -1,0 +1,1039 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-15">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="@CarlosN20900522" label="@CarlosN20900522" />
+      <node id="@Leo_Hendryc" label="@Leo_Hendryc" />
+      <node id="@JooVitorRezen15" label="@JooVitorRezen15" />
+      <node id="@OjoaoLe" label="@OjoaoLe" />
+      <node id="@eitamariaana" label="@eitamariaana" />
+      <node id="@Frncrd" label="@Frncrd" />
+      <node id="@zabbela_" label="@zabbela_" />
+      <node id="@iveteguedes1" label="@iveteguedes1" />
+      <node id="@felipe_klinger1" label="@felipe_klinger1" />
+      <node id="@tittooporto69" label="@tittooporto69" />
+      <node id="@DiniSil" label="@DiniSil" />
+      <node id="@cudobartolomeu" label="@cudobartolomeu" />
+      <node id="@jeometria" label="@jeometria" />
+      <node id="@PsychoDevil10" label="@PsychoDevil10" />
+      <node id="@DariodeOlivei15" label="@DariodeOlivei15" />
+      <node id="@thizibordao" label="@thizibordao" />
+      <node id="@rafaelrigo" label="@rafaelrigo" />
+      <node id="@GeraisConcertos" label="@GeraisConcertos" />
+      <node id="@Will_C_Porfirio" label="@Will_C_Porfirio" />
+      <node id="@CaioBonas" label="@CaioBonas" />
+      <node id="@bbbtwitta" label="@bbbtwitta" />
+      <node id="@agrande_verdade" label="@agrande_verdade" />
+      <node id="@BrunoLSC08" label="@BrunoLSC08" />
+      <node id="@hxkog" label="@hxkog" />
+      <node id="@Fermalessa142" label="@Fermalessa142" />
+      <node id="@eudelacorte" label="@eudelacorte" />
+      <node id="@O_ImortalDF" label="@O_ImortalDF" />
+      <node id="@andreltas" label="@andreltas" />
+      <node id="@setor745" label="@setor745" />
+      <node id="@ghandilua" label="@ghandilua" />
+      <node id="@Lele_daBA" label="@Lele_daBA" />
+      <node id="@universodiscret" label="@universodiscret" />
+      <node id="@androigenes" label="@androigenes" />
+      <node id="@OPensador89" label="@OPensador89" />
+      <node id="@CCdantas" label="@CCdantas" />
+      <node id="@ThePhalma" label="@ThePhalma" />
+      <node id="@BlueComedia" label="@BlueComedia" />
+      <node id="@luiz_f02b" label="@luiz_f02b" />
+      <node id="@AlhyupeBobinho" label="@AlhyupeBobinho" />
+      <node id="@r4f4ellll" label="@r4f4ellll" />
+      <node id="@DiggoSZ02" label="@DiggoSZ02" />
+      <node id="@lzzdft" label="@lzzdft" />
+      <node id="@jonribaz" label="@jonribaz" />
+      <node id="@SP4CEODDTY" label="@SP4CEODDTY" />
+      <node id="@luizsoroca" label="@luizsoroca" />
+      <node id="@eeuseiIaporra" label="@eeuseiIaporra" />
+      <node id="@VitekoMatos" label="@VitekoMatos" />
+      <node id="@FilipeSsi" label="@FilipeSsi" />
+      <node id="@Gustavsant2000" label="@Gustavsant2000" />
+      <node id="@Calops5" label="@Calops5" />
+      <node id="@Hoshi_006" label="@Hoshi_006" />
+      <node id="@IMalmaceda" label="@IMalmaceda" />
+      <node id="@PaulaoConceicao" label="@PaulaoConceicao" />
+      <node id="@mosconisep" label="@mosconisep" />
+      <node id="@bossi_rafael" label="@bossi_rafael" />
+      <node id="@nardinbe" label="@nardinbe" />
+      <node id="@gald_ino" label="@gald_ino" />
+      <node id="@gisellemadv" label="@gisellemadv" />
+      <node id="@MikedoFunk" label="@MikedoFunk" />
+      <node id="@AdolfoOftalmo" label="@AdolfoOftalmo" />
+      <node id="@bizzirobinson" label="@bizzirobinson" />
+      <node id="@EmersonCamara4" label="@EmersonCamara4" />
+      <node id="@Akirausp" label="@Akirausp" />
+      <node id="@Neizinho_tiks" label="@Neizinho_tiks" />
+      <node id="@souzyag13" label="@souzyag13" />
+      <node id="@OdicehSusko777" label="@OdicehSusko777" />
+      <node id="@Emanuel_Arauj0_" label="@Emanuel_Arauj0_" />
+      <node id="@MariFaulstich" label="@MariFaulstich" />
+      <node id="@Forado19" label="@Forado19" />
+      <node id="@flplaureano" label="@flplaureano" />
+      <node id="@yjadoca" label="@yjadoca" />
+      <node id="@ptnuncamaiis" label="@ptnuncamaiis" />
+      <node id="@misty__ynyn" label="@misty__ynyn" />
+      <node id="@CiceroSmoke" label="@CiceroSmoke" />
+      <node id="@RafaelRamos85" label="@RafaelRamos85" />
+      <node id="@crisprodrigues" label="@crisprodrigues" />
+      <node id="@leeafie" label="@leeafie" />
+      <node id="@OliveiraSouz2" label="@OliveiraSouz2" />
+      <node id="@projetochad" label="@projetochad" />
+      <node id="@AKIGOTCH" label="@AKIGOTCH" />
+      <node id="@Azevedowlsa" label="@Azevedowlsa" />
+      <node id="@pinky_AlienAsh" label="@pinky_AlienAsh" />
+      <node id="@zennkky" label="@zennkky" />
+      <node id="@LuizHiero" label="@LuizHiero" />
+      <node id="@UmNoturno" label="@UmNoturno" />
+      <node id="@irangrilo" label="@irangrilo" />
+      <node id="@Lazarosep_" label="@Lazarosep_" />
+      <node id="@mudkippaulista" label="@mudkippaulista" />
+      <node id="@diegosolamito" label="@diegosolamito" />
+      <node id="@IgorCW_" label="@IgorCW_" />
+      <node id="@occultfreckles" label="@occultfreckles" />
+      <node id="@fpratees" label="@fpratees" />
+      <node id="@MHArakaki1" label="@MHArakaki1" />
+      <node id="@levibeyker" label="@levibeyker" />
+      <node id="@Gb1895" label="@Gb1895" />
+      <node id="@motejar" label="@motejar" />
+      <node id="@crazy_lusca" label="@crazy_lusca" />
+      <node id="@jastf1931" label="@jastf1931" />
+      <node id="@FabioCETF" label="@FabioCETF" />
+      <node id="@mekkyku" label="@mekkyku" />
+      <node id="@chicomagazine" label="@chicomagazine" />
+      <node id="@jbesnosik1711" label="@jbesnosik1711" />
+      <node id="@maria_sbpf" label="@maria_sbpf" />
+      <node id="@Sonembleime" label="@Sonembleime" />
+      <node id="@DuMonteiro7" label="@DuMonteiro7" />
+      <node id="@lucas_negrucci" label="@lucas_negrucci" />
+      <node id="@GbrFDC" label="@GbrFDC" />
+      <node id="@cauedelvalle" label="@cauedelvalle" />
+      <node id="@falarealmesmo" label="@falarealmesmo" />
+      <node id="@feeernandes32" label="@feeernandes32" />
+      <node id="@_ruoyeh" label="@_ruoyeh" />
+      <node id="@isaelbryan1" label="@isaelbryan1" />
+      <node id="@caioofran" label="@caioofran" />
+      <node id="@XandZeraaa" label="@XandZeraaa" />
+      <node id="@FelipePeruzzo" label="@FelipePeruzzo" />
+      <node id="@marcelobenini" label="@marcelobenini" />
+      <node id="@DCreedzs" label="@DCreedzs" />
+      <node id="@stevenester1234" label="@stevenester1234" />
+      <node id="@marco_dharma" label="@marco_dharma" />
+      <node id="@SuzanaFlagg" label="@SuzanaFlagg" />
+      <node id="@rhadamyssaints" label="@rhadamyssaints" />
+      <node id="@hgsouza02" label="@hgsouza02" />
+      <node id="@edson_seninha" label="@edson_seninha" />
+      <node id="@thigmel" label="@thigmel" />
+      <node id="@OverhaulVon" label="@OverhaulVon" />
+      <node id="@apavoneleite" label="@apavoneleite" />
+      <node id="@MikasaUma" label="@MikasaUma" />
+      <node id="@Milton53saj" label="@Milton53saj" />
+      <node id="@CaptainSpeke" label="@CaptainSpeke" />
+      <node id="@gnomo_gnomoh" label="@gnomo_gnomoh" />
+      <node id="@morenteeee" label="@morenteeee" />
+      <node id="@celsione" label="@celsione" />
+      <node id="@VictorC49504567" label="@VictorC49504567" />
+      <node id="@EvanirJSantos" label="@EvanirJSantos" />
+      <node id="@IltonBJ1" label="@IltonBJ1" />
+      <node id="@Albertoimbiriba" label="@Albertoimbiriba" />
+      <node id="@RafaelM54320715" label="@RafaelM54320715" />
+      <node id="@Limetinho" label="@Limetinho" />
+      <node id="@Marco_Pereira13" label="@Marco_Pereira13" />
+      <node id="@dhdemoner" label="@dhdemoner" />
+      <node id="@JoaoEmanuelMN2" label="@JoaoEmanuelMN2" />
+      <node id="@theodoroobasta1" label="@theodoroobasta1" />
+      <node id="@thcesar97" label="@thcesar97" />
+      <node id="@marcelo4417" label="@marcelo4417" />
+      <node id="@CludioMoacirMo1" label="@CludioMoacirMo1" />
+      <node id="@Leonard10546099" label="@Leonard10546099" />
+      <node id="@diegoponey" label="@diegoponey" />
+      <node id="@vinycosta9_" label="@vinycosta9_" />
+      <node id="@night_XDDD" label="@night_XDDD" />
+      <node id="@WalissonKizyza1" label="@WalissonKizyza1" />
+      <node id="@Kuba_Gleiber" label="@Kuba_Gleiber" />
+      <node id="@_NiiTing" label="@_NiiTing" />
+      <node id="@durvalvalladar1" label="@durvalvalladar1" />
+      <node id="@Estavasemideia1" label="@Estavasemideia1" />
+      <node id="@FutC_PT" label="@FutC_PT" />
+      <node id="@_galeani" label="@_galeani" />
+      <node id="@naka8683" label="@naka8683" />
+      <node id="@uarlem" label="@uarlem" />
+      <node id="@nyck20201" label="@nyck20201" />
+      <node id="@_Grimjonny_" label="@_Grimjonny_" />
+      <node id="@Martin_Heil12" label="@Martin_Heil12" />
+      <node id="@DwightSchrute65" label="@DwightSchrute65" />
+      <node id="@erasmolbj" label="@erasmolbj" />
+      <node id="@misterlc" label="@misterlc" />
+      <node id="@victorsouzacn" label="@victorsouzacn" />
+      <node id="@SpinheiroP" label="@SpinheiroP" />
+      <node id="@CLAUDIOJARDIMD1" label="@CLAUDIOJARDIMD1" />
+      <node id="@thcooelho" label="@thcooelho" />
+      <node id="@pedrosa10" label="@pedrosa10" />
+      <node id="@SCoitadinho" label="@SCoitadinho" />
+      <node id="@art_hurt__" label="@art_hurt__" />
+      <node id="@Andr_530" label="@Andr_530" />
+      <node id="@FDS__Gabriel" label="@FDS__Gabriel" />
+      <node id="@MarioBonizzoni" label="@MarioBonizzoni" />
+      <node id="@__cancelado__" label="@__cancelado__" />
+      <node id="@RodMota7" label="@RodMota7" />
+      <node id="@yuricaminhoes" label="@yuricaminhoes" />
+      <node id="@BbtoFns" label="@BbtoFns" />
+      <node id="@nostalgialofi" label="@nostalgialofi" />
+      <node id="@blackshart1690" label="@blackshart1690" />
+      <node id="@obertobr" label="@obertobr" />
+      <node id="@_SPNoticias" label="@_SPNoticias" />
+      <node id="@queirogalouise" label="@queirogalouise" />
+      <node id="@Marcos__VMP" label="@Marcos__VMP" />
+      <node id="@vermelhimm" label="@vermelhimm" />
+      <node id="@obigtoon" label="@obigtoon" />
+      <node id="@Matheus24069177" label="@Matheus24069177" />
+      <node id="@vermelhos_sim" label="@vermelhos_sim" />
+      <node id="@f_amaral76" label="@f_amaral76" />
+      <node id="@Vamoqvamooo" label="@Vamoqvamooo" />
+      <node id="@MontanhesGerson" label="@MontanhesGerson" />
+      <node id="@amarkevicius" label="@amarkevicius" />
+      <node id="@mvmp_webdesign" label="@mvmp_webdesign" />
+      <node id="@j_preto_" label="@j_preto_" />
+      <node id="@gutobarreto88" label="@gutobarreto88" />
+      <node id="@LordjonathanRb" label="@LordjonathanRb" />
+      <node id="@JoviJoviana" label="@JoviJoviana" />
+      <node id="@monark" label="@monark" />
+      <node id="@JardelinoMurilo" label="@JardelinoMurilo" />
+      <node id="@Cecillia" label="@Cecillia" />
+      <node id="@iFood" label="@iFood" />
+      <node id="@PrimeVideoBR" label="@PrimeVideoBR" />
+      <node id="@Ragazzo" label="@Ragazzo" />
+      <node id="@pumabrasil" label="@pumabrasil" />
+      <node id="@amazonmusic" label="@amazonmusic" />
+      <node id="@wiseupbr" label="@wiseupbr" />
+      <node id="@RelatosSiririca" label="@RelatosSiririca" />
+      <node id="@souzaa_almeida" label="@souzaa_almeida" />
+      <node id="@igor_3k" label="@igor_3k" />
+      <node id="@jpdoficial1" label="@jpdoficial1" />
+      <node id="@slpng_giants_pt" label="@slpng_giants_pt" />
+      <node id="@Insiderstore" label="@Insiderstore" />
+      <node id="@FatalModel" label="@FatalModel" />
+      <node id="@Finclass_br" label="@Finclass_br" />
+      <node id="@Aquiles_Argolo" label="@Aquiles_Argolo" />
+      <node id="@YouTube" label="@YouTube" />
+      <node id="@estudiosflow" label="@estudiosflow" />
+      <node id="@seunome11" label="@seunome11" />
+      <node id="@flowpdc" label="@flowpdc" />
+      <node id="@Gabri_Nasc" label="@Gabri_Nasc" />
+      <node id="@brundren" label="@brundren" />
+      <node id="@MKCRF22" label="@MKCRF22" />
+      <node id="@doktorzim" label="@doktorzim" />
+      <node id="@CuriosidadesBRL" label="@CuriosidadesBRL" />
+      <node id="@davidgomesrio_" label="@davidgomesrio_" />
+      <node id="@rodrigo_arins" label="@rodrigo_arins" />
+      <node id="@PaparazzoRN" label="@PaparazzoRN" />
+      <node id="@FlowSportClub" label="@FlowSportClub" />
+      <node id="@aldorebelo" label="@aldorebelo" />
+      <node id="@MastercardBR" label="@MastercardBR" />
+      <node id="@insiderstore" label="@insiderstore" />
+      <node id="@RagazzoOficial" label="@RagazzoOficial" />
+      <node id="@HumbertoPiment4" label="@HumbertoPiment4" />
+      <node id="@niefraim" label="@niefraim" />
+      <node id="@ronaldindopneu" label="@ronaldindopneu" />
+      <node id="@homo_porco_gago" label="@homo_porco_gago" />
+      <node id="@fobaka_" label="@fobaka_" />
+      <node id="@BrunoEnglerDM" label="@BrunoEnglerDM" />
+      <node id="@lsentoes1" label="@lsentoes1" />
+      <node id="@belrodrigues" label="@belrodrigues" />
+      <node id="@LeviKaique" label="@LeviKaique" />
+      <node id="@GallottiGraca" label="@GallottiGraca" />
+      <node id="@ifood" label="@ifood" />
+      <node id="@cataploft" label="@cataploft" />
+      <node id="@caiocgomes" label="@caiocgomes" />
+      <node id="@BahiaMama" label="@BahiaMama" />
+      <node id="@izzynobre" label="@izzynobre" />
+      <node id="@nwtsz" label="@nwtsz" />
+      <node id="@traveller_road" label="@traveller_road" />
+      <node id="@biuuuz" label="@biuuuz" />
+      <node id="@Alg4roba" label="@Alg4roba" />
+      <node id="@ancapsu" label="@ancapsu" />
+      <node id="@Leostylesss13" label="@Leostylesss13" />
+      <node id="@lucasfresno" label="@lucasfresno" />
+      <node id="@Sid_Apenas" label="@Sid_Apenas" />
+      <node id="@Damascgu" label="@Damascgu" />
+      <node id="@aguedescartoon" label="@aguedescartoon" />
+      <node id="@Phelipe_MP" label="@Phelipe_MP" />
+      <node id="@Taih_Cruz" label="@Taih_Cruz" />
+      <node id="@bicmuller" label="@bicmuller" />
+      <node id="@elementosmag" label="@elementosmag" />
+      <node id="@mvbill" label="@mvbill" />
+      <node id="@Cricamg" label="@Cricamg" />
+      <node id="@o_rafuxo" label="@o_rafuxo" />
+      <node id="@Jujucactos" label="@Jujucactos" />
+      <node id="@ErikakHilton" label="@ErikakHilton" />
+      <node id="@__lusouzaa__" label="@__lusouzaa__" />
+      <node id="@arthurmoledoval" label="@arthurmoledoval" />
+      <node id="@exame" label="@exame" />
+      <node id="@UberEats_br" label="@UberEats_br" />
+      <node id="@rafaeldalla" label="@rafaeldalla" />
+      <node id="@sportsbetiobr" label="@sportsbetiobr" />
+      <node id="@cafecomwill" label="@cafecomwill" />
+      <node id="@inst_lula" label="@inst_lula" />
+      <node id="@LulaOficial" label="@LulaOficial" />
+      <node id="@Ricardo42972315" label="@Ricardo42972315" />
+      <node id="@mylaura_m" label="@mylaura_m" />
+      <node id="@Riveres" label="@Riveres" />
+      <node id="@devnic_" label="@devnic_" />
+      <node id="@Flerya182" label="@Flerya182" />
+      <node id="@Juarezbitcoi" label="@Juarezbitcoi" />
+      <node id="@vacapanaca" label="@vacapanaca" />
+      <node id="@artyralmeida" label="@artyralmeida" />
+      <node id="@naborbaa" label="@naborbaa" />
+      <node id="@Monark" label="@Monark" />
+      <node id="@cirogomes" label="@cirogomes" />
+      <node id="@ronaldo_sousajr" label="@ronaldo_sousajr" />
+      <node id="@felipegoldenb" label="@felipegoldenb" />
+      <node id="@Chief117Br" label="@Chief117Br" />
+      <node id="@erickpenero" label="@erickpenero" />
+      <node id="@Matsuuuuna" label="@Matsuuuuna" />
+      <node id="@Linszzs" label="@Linszzs" />
+      <node id="@maiconkusterk" label="@maiconkusterk" />
+      <node id="@KimKataguiri" label="@KimKataguiri" />
+      <node id="@Desesquerdizada" label="@Desesquerdizada" />
+      <node id="@Larissa_BMatos" label="@Larissa_BMatos" />
+      <node id="@ovenuspodcast" label="@ovenuspodcast" />
+      <node id="@PlZero9" label="@PlZero9" />
+      <node id="@Izzombie" label="@Izzombie" />
+      <node id="@bernronc" label="@bernronc" />
+      <node id="@Helinhi" label="@Helinhi" />
+      <node id="@Metropoles" label="@Metropoles" />
+      <node id="@ermisualves" label="@ermisualves" />
+      <node id="@amdre_young" label="@amdre_young" />
+      <node id="@ShiroiRaito" label="@ShiroiRaito" />
+      <node id="@NaoInviabilize" label="@NaoInviabilize" />
+      <node id="@aIexbroca" label="@aIexbroca" />
+      <node id="@paulocruzphi" label="@paulocruzphi" />
+      <node id="@AliceKi13433874" label="@AliceKi13433874" />
+      <node id="@IgorLorens" label="@IgorLorens" />
+      <node id="@lett1337" label="@lett1337" />
+      <node id="@RomuloScott" label="@RomuloScott" />
+      <node id="@_Danilopinto" label="@_Danilopinto" />
+      <node id="@thigagliasso" label="@thigagliasso" />
+      <node id="@r4fwel" label="@r4fwel" />
+      <node id="@diImabr" label="@diImabr" />
+      <node id="@HelemAzevedo" label="@HelemAzevedo" />
+      <node id="@prometeshahaha" label="@prometeshahaha" />
+      <node id="@__lilybraun" label="@__lilybraun" />
+      <node id="@Caiky_3" label="@Caiky_3" />
+      <node id="@antoniotabet" label="@antoniotabet" />
+      <node id="@CiroNoflow" label="@CiroNoflow" />
+      <node id="@todoscomciro" label="@todoscomciro" />
+      <node id="@fredcaldeira" label="@fredcaldeira" />
+      <node id="@Gois_1988" label="@Gois_1988" />
+      <node id="@ArthemsO" label="@ArthemsO" />
+      <node id="@jairbolsonaro" label="@jairbolsonaro" />
+      <node id="@delucca" label="@delucca" />
+      <node id="@MuseuHolocausto" label="@MuseuHolocausto" />
+      <node id="@VinnyEsquecido" label="@VinnyEsquecido" />
+      <node id="@sangii_09" label="@sangii_09" />
+      <node id="@eitapeula" label="@eitapeula" />
+      <node id="@leonardo1opes" label="@leonardo1opes" />
+      <node id="@archerzin_" label="@archerzin_" />
+      <node id="@realpfigueiredo" label="@realpfigueiredo" />
+      <node id="@direitasiqueira" label="@direitasiqueira" />
+      <node id="@taoquei1" label="@taoquei1" />
+      <node id="@Jumpz___" label="@Jumpz___" />
+      <node id="@pedrocertezas" label="@pedrocertezas" />
+      <node id="@CanaldoNegaoo" label="@CanaldoNegaoo" />
+      <node id="@kimpaim" label="@kimpaim" />
+      <node id="@soouza_7" label="@soouza_7" />
+      <node id="@rmotta2" label="@rmotta2" />
+      <node id="@AndreLajst" label="@AndreLajst" />
+      <node id="@connected_boy" label="@connected_boy" />
+      <node id="@peterjordan100" label="@peterjordan100" />
+      <node id="@gozeinacueca" label="@gozeinacueca" />
+      <node id="@Rconstantino" label="@Rconstantino" />
+      <node id="@CrisBernart" label="@CrisBernart" />
+      <node id="@bravecherryy" label="@bravecherryy" />
+      <node id="@raulalfalrisha" label="@raulalfalrisha" />
+      <node id="@cauemoura" label="@cauemoura" />
+      <node id="@danimagcruzeiro" label="@danimagcruzeiro" />
+      <node id="@mateusmagFAL" label="@mateusmagFAL" />
+      <node id="@mpsp_oficial" label="@mpsp_oficial" />
+      <node id="@amaraluai" label="@amaraluai" />
+      <node id="@PCO29" label="@PCO29" />
+      <node id="@alefreitasdep" label="@alefreitasdep" />
+      <node id="@OnurbGuilherme" label="@OnurbGuilherme" />
+      <node id="@DilmaeTaON" label="@DilmaeTaON" />
+      <node id="@MBLivre" label="@MBLivre" />
+      <node id="@zehdeabreu" label="@zehdeabreu" />
+      <node id="@LcioAlvesdeBar1" label="@LcioAlvesdeBar1" />
+      <node id="@meteoro_br" label="@meteoro_br" />
+      <node id="@larissanps" label="@larissanps" />
+      <node id="@haddaddebocha13" label="@haddaddebocha13" />
+      <node id="@moura_101" label="@moura_101" />
+      <node id="@PauloCsarGuima1" label="@PauloCsarGuima1" />
+      <node id="@GiscardRichard" label="@GiscardRichard" />
+      <node id="1491087858933055488" label="1491087858933055488" />
+      <node id="1491168026536050688" label="1491168026536050688" />
+      <node id="1491223598635569154" label="1491223598635569154" />
+      <node id="1491032320215715841" label="1491032320215715841" />
+      <node id="1491060451194863620" label="1491060451194863620" />
+      <node id="1453809569336111109" label="1453809569336111109" />
+      <node id="1491214940409307138" label="1491214940409307138" />
+      <node id="1491232612396187657" label="1491232612396187657" />
+      <node id="1491202197044219910" label="1491202197044219910" />
+      <node id="1491227295713198082" label="1491227295713198082" />
+      <node id="1491057076642381833" label="1491057076642381833" />
+      <node id="1455544858710523907" label="1455544858710523907" />
+      <node id="1491227010659725313" label="1491227010659725313" />
+      <node id="1491226762260451333" label="1491226762260451333" />
+      <node id="1491057544692912131" label="1491057544692912131" />
+      <node id="1491084685568770050" label="1491084685568770050" />
+      <node id="1491218252311461888" label="1491218252311461888" />
+      <node id="1491218239514316800" label="1491218239514316800" />
+      <node id="1491224192267657224" label="1491224192267657224" />
+      <node id="1491146522708557825" label="1491146522708557825" />
+      <node id="iFood" label="iFood" />
+      <node id="1491083276848885760" label="1491083276848885760" />
+      <node id="1491200021932351489" label="1491200021932351489" />
+      <node id="1491219478033858561" label="1491219478033858561" />
+      <node id="1491212448858505217" label="1491212448858505217" />
+      <node id="1491218254064668673" label="1491218254064668673" />
+      <node id="1491106443776659456" label="1491106443776659456" />
+      <node id="1491146445847957504" label="1491146445847957504" />
+      <node id="1491140018211258368" label="1491140018211258368" />
+      <node id="1491216535360503810" label="1491216535360503810" />
+      <node id="1491201441117388801" label="1491201441117388801" />
+      <node id="1491055125871624194" label="1491055125871624194" />
+      <node id="1491210908273881091" label="1491210908273881091" />
+      <node id="1491087222002843648" label="1491087222002843648" />
+      <node id="1491205769723002880" label="1491205769723002880" />
+      <node id="1491186772780683267" label="1491186772780683267" />
+      <node id="1454763095679774721" label="1454763095679774721" />
+      <node id="1491207761753153538" label="1491207761753153538" />
+      <node id="1491147847735349250" label="1491147847735349250" />
+      <node id="1491131466339987456" label="1491131466339987456" />
+      <node id="1491081396059885573" label="1491081396059885573" />
+      <node id="1491203050182430721" label="1491203050182430721" />
+      <node id="1491173390253981697" label="1491173390253981697" />
+      <node id="1491203560755064834" label="1491203560755064834" />
+      <node id="1491116271945285632" label="1491116271945285632" />
+      <node id="1491171821223563264" label="1491171821223563264" />
+      <node id="1491119025824632834" label="1491119025824632834" />
+      <node id="1491218407492325378" label="1491218407492325378" />
+      <node id="1491212374988443648" label="1491212374988443648" />
+      <node id="1491088785660329985" label="1491088785660329985" />
+      <node id="1491202260927655936" label="1491202260927655936" />
+      <node id="1491146033111261185" label="1491146033111261185" />
+      <node id="1491205851079917576" label="1491205851079917576" />
+      <node id="1491195717918273539" label="1491195717918273539" />
+      <node id="1491203093547352070" label="1491203093547352070" />
+      <node id="1490395277194416134" label="1490395277194416134" />
+      <node id="1491215353304989698" label="1491215353304989698" />
+      <node id="1491241786106589186" label="1491241786106589186" />
+      <node id="1491178001102675968" label="1491178001102675968" />
+      <node id="monark" label="monark" />
+      <node id="1491204352018501632" label="1491204352018501632" />
+      <node id="1491223858636271616" label="1491223858636271616" />
+      <node id="1491209931776991234" label="1491209931776991234" />
+      <node id="1491231476062785538" label="1491231476062785538" />
+      <node id="1491060244314988544" label="1491060244314988544" />
+      <node id="1491232417230712833" label="1491232417230712833" />
+      <node id="1491148949721616385" label="1491148949721616385" />
+      <node id="1491228166878539776" label="1491228166878539776" />
+      <node id="1491228890702180354" label="1491228890702180354" />
+      <node id="1491226406315245568" label="1491226406315245568" />
+      <node id="1491221509041721344" label="1491221509041721344" />
+      <node id="1491226260814831617" label="1491226260814831617" />
+      <node id="1491127705152397312" label="1491127705152397312" />
+      <node id="1491110002039586817" label="1491110002039586817" />
+      <node id="1491222467645702145" label="1491222467645702145" />
+      <node id="1491105576486858755" label="1491105576486858755" />
+      <node id="1491203747485159427" label="1491203747485159427" />
+      <node id="1491070863701123076" label="1491070863701123076" />
+      <node id="1491219900022804480" label="1491219900022804480" />
+      <node id="1491205960131833857" label="1491205960131833857" />
+      <node id="1491220410356346883" label="1491220410356346883" />
+      <node id="1491218529794007040" label="1491218529794007040" />
+      <node id="1491201699742052352" label="1491201699742052352" />
+      <node id="1491087259176943616" label="1491087259176943616" />
+      <node id="1491183772347342860" label="1491183772347342860" />
+      <node id="1491045762784186377" label="1491045762784186377" />
+      <node id="1491086297808912384" label="1491086297808912384" />
+      <node id="1491083729259106313" label="1491083729259106313" />
+      <node id="1491091670024491008" label="1491091670024491008" />
+      <node id="1491217367908884482" label="1491217367908884482" />
+      <node id="1491214452536254465" label="1491214452536254465" />
+      <node id="1491216510895165440" label="1491216510895165440" />
+      <node id="1491087946853675008" label="1491087946853675008" />
+      <node id="1491208269100384256" label="1491208269100384256" />
+      <node id="1491212836785504257" label="1491212836785504257" />
+      <node id="1491141196538085377" label="1491141196538085377" />
+      <node id="1491151556888043520" label="1491151556888043520" />
+      <node id="1491088479560044545" label="1491088479560044545" />
+      <node id="1491209886046523392" label="1491209886046523392" />
+      <node id="1491203865039216641" label="1491203865039216641" />
+      <node id="1491208636638822400" label="1491208636638822400" />
+      <node id="1491189852393861122" label="1491189852393861122" />
+      <node id="1491196774358274048" label="1491196774358274048" />
+      <node id="1491189270027337730" label="1491189270027337730" />
+      <node id="1491117422711283712" label="1491117422711283712" />
+      <node id="1491192905679405061" label="1491192905679405061" />
+      <node id="1491147767347314688" label="1491147767347314688" />
+      <node id="1491199710014894081" label="1491199710014894081" />
+      <node id="1491126157676548097" label="1491126157676548097" />
+      <node id="1491200974303956992" label="1491200974303956992" />
+      <node id="1491156332816506882" label="1491156332816506882" />
+      <node id="1491199970623787010" label="1491199970623787010" />
+      <node id="1491101290788655104" label="1491101290788655104" />
+      <node id="1491200196046311428" label="1491200196046311428" />
+      <node id="1491192659037552644" label="1491192659037552644" />
+      <node id="1491220510990278657" label="1491220510990278657" />
+      <node id="1491097083029377029" label="1491097083029377029" />
+      <node id="1491136379761434632" label="1491136379761434632" />
+      <node id="1491140370868338689" label="1491140370868338689" />
+      <node id="1491229051247370245" label="1491229051247370245" />
+      <node id="1491213451582394370" label="1491213451582394370" />
+      <node id="1491147808665407488" label="1491147808665407488" />
+      <node id="1491063042028847112" label="1491063042028847112" />
+      <node id="1491187257302204420" label="1491187257302204420" />
+      <node id="1491187900821635072" label="1491187900821635072" />
+      <node id="KimKataguiri" label="KimKataguiri" />
+      <node id="1491175033238351873" label="1491175033238351873" />
+      <node id="1491142900528578560" label="1491142900528578560" />
+      <node id="1491175226583191553" label="1491175226583191553" />
+      <node id="1491181497197690880" label="1491181497197690880" />
+      <node id="1491144304093712384" label="1491144304093712384" />
+    </nodes>
+    <edges>
+      <edge source="@CarlosN20900522" target="@monark" id="0" weight="1" type="mention" />
+      <edge source="@CarlosN20900522" target="1491087858933055488" id="1" weight="1" type="reply" />
+      <edge source="@Leo_Hendryc" target="@JardelinoMurilo" id="2" weight="1" type="mention" />
+      <edge source="@Leo_Hendryc" target="@Cecillia" id="3" weight="1" type="mention" />
+      <edge source="@Leo_Hendryc" target="1491168026536050688" id="4" weight="1" type="reply" />
+      <edge source="@JooVitorRezen15" target="@iFood" id="5" weight="1" type="mention" />
+      <edge source="@JooVitorRezen15" target="@PrimeVideoBR" id="6" weight="1" type="mention" />
+      <edge source="@JooVitorRezen15" target="@Ragazzo" id="7" weight="1" type="mention" />
+      <edge source="@JooVitorRezen15" target="@pumabrasil" id="8" weight="1" type="mention" />
+      <edge source="@JooVitorRezen15" target="@amazonmusic" id="9" weight="1" type="mention" />
+      <edge source="@JooVitorRezen15" target="@wiseupbr" id="10" weight="1" type="mention" />
+      <edge source="@OjoaoLe" target="@RelatosSiririca" id="11" weight="1" type="mention" />
+      <edge source="@Frncrd" target="@souzaa_almeida" id="12" weight="1" type="mention" />
+      <edge source="@Frncrd" target="@igor_3k" id="13" weight="1" type="mention" />
+      <edge source="@Frncrd" target="1491223598635569154" id="14" weight="1" type="reply" />
+      <edge source="@iveteguedes1" target="@jpdoficial1" id="15" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@slpng_giants_pt" id="16" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@monark" id="17" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@iFood" id="18" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@Insiderstore" id="19" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@Ragazzo" id="20" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@PrimeVideoBR" id="21" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@amazonmusic" id="22" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@pumabrasil" id="23" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@FatalModel" id="24" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="@Finclass_br" id="25" weight="1" type="mention" />
+      <edge source="@iveteguedes1" target="1491032320215715841" id="26" weight="1" type="reply" />
+      <edge source="@felipe_klinger1" target="@Aquiles_Argolo" id="27" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@iFood" id="28" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@PrimeVideoBR" id="29" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@Ragazzo" id="30" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@pumabrasil" id="31" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@amazonmusic" id="32" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="@wiseupbr" id="33" weight="1" type="mention" />
+      <edge source="@felipe_klinger1" target="1491060451194863620" id="34" weight="1" type="reply" />
+      <edge source="@tittooporto69" target="@YouTube" id="35" weight="2" type="mention" />
+      <edge source="@tittooporto69" target="@monark" id="36" weight="1" type="mention" />
+      <edge source="@tittooporto69" target="@estudiosflow" id="37" weight="1" type="mention" />
+      <edge source="@tittooporto69" target="@iFood" id="38" weight="1" type="mention" />
+      <edge source="@tittooporto69" target="@pumabrasil" id="39" weight="1" type="mention" />
+      <edge source="@jeometria" target="@monark" id="40" weight="1" type="mention" />
+      <edge source="@jeometria" target="1453809569336111109" id="41" weight="1" type="reply" />
+      <edge source="@PsychoDevil10" target="@seunome11" id="42" weight="1" type="mention" />
+      <edge source="@PsychoDevil10" target="@flowpdc" id="43" weight="1" type="mention" />
+      <edge source="@PsychoDevil10" target="@igor_3k" id="44" weight="1" type="mention" />
+      <edge source="@PsychoDevil10" target="@monark" id="45" weight="1" type="mention" />
+      <edge source="@PsychoDevil10" target="1491214940409307138" id="46" weight="1" type="reply" />
+      <edge source="@thizibordao" target="@Gabri_Nasc" id="47" weight="1" type="mention" />
+      <edge source="@thizibordao" target="1491232612396187657" id="48" weight="1" type="reply" />
+      <edge source="@rafaelrigo" target="@brundren" id="49" weight="1" type="mention" />
+      <edge source="@rafaelrigo" target="@MKCRF22" id="50" weight="1" type="mention" />
+      <edge source="@rafaelrigo" target="@doktorzim" id="51" weight="1" type="mention" />
+      <edge source="@rafaelrigo" target="@CuriosidadesBRL" id="52" weight="1" type="mention" />
+      <edge source="@rafaelrigo" target="1491202197044219910" id="53" weight="1" type="reply" />
+      <edge source="@GeraisConcertos" target="@davidgomesrio_" id="54" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="@rodrigo_arins" id="55" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="@PaparazzoRN" id="56" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="@flowpdc" id="57" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="@estudiosflow" id="58" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="@FlowSportClub" id="59" weight="1" type="mention" />
+      <edge source="@bbbtwitta" target="1491227295713198082" id="60" weight="1" type="reply" />
+      <edge source="@agrande_verdade" target="@aldorebelo" id="61" weight="1" type="mention" />
+      <edge source="@agrande_verdade" target="@iFood" id="62" weight="1" type="mention" />
+      <edge source="@agrande_verdade" target="@MastercardBR" id="63" weight="1" type="mention" />
+      <edge source="@agrande_verdade" target="@pumabrasil" id="64" weight="1" type="mention" />
+      <edge source="@agrande_verdade" target="@insiderstore" id="65" weight="1" type="mention" />
+      <edge source="@agrande_verdade" target="@RagazzoOficial" id="66" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@iFood" id="67" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@PrimeVideoBR" id="68" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@Ragazzo" id="69" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@pumabrasil" id="70" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@amazonmusic" id="71" weight="1" type="mention" />
+      <edge source="@BrunoLSC08" target="@wiseupbr" id="72" weight="1" type="mention" />
+      <edge source="@hxkog" target="@HumbertoPiment4" id="73" weight="1" type="mention" />
+      <edge source="@hxkog" target="@niefraim" id="74" weight="1" type="mention" />
+      <edge source="@hxkog" target="1491057076642381833" id="75" weight="1" type="reply" />
+      <edge source="@Fermalessa142" target="@ronaldindopneu" id="76" weight="1" type="mention" />
+      <edge source="@Fermalessa142" target="@homo_porco_gago" id="77" weight="1" type="mention" />
+      <edge source="@Fermalessa142" target="@fobaka_" id="78" weight="1" type="mention" />
+      <edge source="@O_ImortalDF" target="@monark" id="79" weight="1" type="mention" />
+      <edge source="@O_ImortalDF" target="@BrunoEnglerDM" id="80" weight="1" type="mention" />
+      <edge source="@O_ImortalDF" target="@lsentoes1" id="81" weight="1" type="mention" />
+      <edge source="@O_ImortalDF" target="@iFood" id="82" weight="1" type="mention" />
+      <edge source="@O_ImortalDF" target="1455544858710523907" id="83" weight="1" type="reply" />
+      <edge source="@andreltas" target="@belrodrigues" id="84" weight="3" type="mention" />
+      <edge source="@andreltas" target="@LeviKaique" id="85" weight="3" type="mention" />
+      <edge source="@andreltas" target="@MastercardBR" id="86" weight="3" type="mention" />
+      <edge source="@andreltas" target="@iFood" id="87" weight="4" type="mention" />
+      <edge source="@andreltas" target="@wiseupbr" id="88" weight="4" type="mention" />
+      <edge source="@andreltas" target="@Ragazzo" id="89" weight="4" type="mention" />
+      <edge source="@andreltas" target="@PrimeVideoBR" id="90" weight="4" type="mention" />
+      <edge source="@andreltas" target="@amazonmusic" id="91" weight="4" type="mention" />
+      <edge source="@andreltas" target="@pumabrasil" id="92" weight="4" type="mention" />
+      <edge source="@andreltas" target="@Finclass_br" id="93" weight="4" type="mention" />
+      <edge source="@andreltas" target="1491227010659725313" id="94" weight="1" type="reply" />
+      <edge source="@andreltas" target="1491226762260451333" id="95" weight="1" type="reply" />
+      <edge source="@andreltas" target="1491057544692912131" id="96" weight="1" type="reply" />
+      <edge source="@setor745" target="@GallottiGraca" id="97" weight="1" type="mention" />
+      <edge source="@setor745" target="@iFood" id="98" weight="1" type="mention" />
+      <edge source="@setor745" target="@ifood" id="99" weight="1" type="mention" />
+      <edge source="@setor745" target="1491084685568770050" id="100" weight="1" type="reply" />
+      <edge source="@ghandilua" target="1491218252311461888" id="101" weight="1" type="reply" />
+      <edge source="@ghandilua" target="1491218239514316800" id="102" weight="1" type="reply" />
+      <edge source="@Lele_daBA" target="@jpdoficial1" id="103" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@slpng_giants_pt" id="104" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@monark" id="105" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@iFood" id="106" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@Insiderstore" id="107" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@Ragazzo" id="108" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@PrimeVideoBR" id="109" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@amazonmusic" id="110" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@pumabrasil" id="111" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@FatalModel" id="112" weight="1" type="mention" />
+      <edge source="@Lele_daBA" target="@Finclass_br" id="113" weight="1" type="mention" />
+      <edge source="@universodiscret" target="@cataploft" id="114" weight="1" type="mention" />
+      <edge source="@universodiscret" target="@caiocgomes" id="115" weight="1" type="mention" />
+      <edge source="@universodiscret" target="1491224192267657224" id="116" weight="1" type="reply" />
+      <edge source="@OPensador89" target="@seunome11" id="117" weight="1" type="mention" />
+      <edge source="@OPensador89" target="@flowpdc" id="118" weight="1" type="mention" />
+      <edge source="@OPensador89" target="@igor_3k" id="119" weight="1" type="mention" />
+      <edge source="@OPensador89" target="@monark" id="120" weight="1" type="mention" />
+      <edge source="@OPensador89" target="1491214940409307138" id="121" weight="1" type="reply" />
+      <edge source="@CCdantas" target="@BahiaMama" id="122" weight="1" type="mention" />
+      <edge source="@CCdantas" target="1491146522708557825" id="123" weight="1" type="reply" />
+      <edge source="@ThePhalma" target="@iFood" id="124" weight="1" type="mention" />
+      <edge source="@ThePhalma" target="iFood" id="125" weight="1" type="reply" />
+      <edge source="@BlueComedia" target="@iFood" id="126" weight="1" type="mention" />
+      <edge source="@BlueComedia" target="1491083276848885760" id="127" weight="1" type="reply" />
+      <edge source="@luiz_f02b" target="@izzynobre" id="128" weight="1" type="mention" />
+      <edge source="@luiz_f02b" target="1491200021932351489" id="129" weight="1" type="reply" />
+      <edge source="@AlhyupeBobinho" target="@nwtsz" id="130" weight="1" type="mention" />
+      <edge source="@r4f4ellll" target="@traveller_road" id="131" weight="1" type="mention" />
+      <edge source="@r4f4ellll" target="@biuuuz" id="132" weight="2" type="mention" />
+      <edge source="@r4f4ellll" target="@flowpdc" id="133" weight="2" type="mention" />
+      <edge source="@r4f4ellll" target="@monark" id="134" weight="2" type="mention" />
+      <edge source="@r4f4ellll" target="@igor_3k" id="135" weight="2" type="mention" />
+      <edge source="@r4f4ellll" target="1491219478033858561" id="136" weight="1" type="reply" />
+      <edge source="@r4f4ellll" target="1491212448858505217" id="137" weight="1" type="reply" />
+      <edge source="@DiggoSZ02" target="@Alg4roba" id="138" weight="1" type="mention" />
+      <edge source="@DiggoSZ02" target="@ancapsu" id="139" weight="1" type="mention" />
+      <edge source="@DiggoSZ02" target="@flowpdc" id="140" weight="1" type="mention" />
+      <edge source="@DiggoSZ02" target="1491218254064668673" id="141" weight="1" type="reply" />
+      <edge source="@jonribaz" target="@Leostylesss13" id="142" weight="1" type="mention" />
+      <edge source="@jonribaz" target="@lucasfresno" id="143" weight="1" type="mention" />
+      <edge source="@jonribaz" target="@monark" id="144" weight="1" type="mention" />
+      <edge source="@jonribaz" target="1491106443776659456" id="145" weight="1" type="reply" />
+      <edge source="@SP4CEODDTY" target="@Sid_Apenas" id="146" weight="1" type="mention" />
+      <edge source="@SP4CEODDTY" target="@Damascgu" id="147" weight="1" type="mention" />
+      <edge source="@SP4CEODDTY" target="@Ragazzo" id="148" weight="1" type="mention" />
+      <edge source="@SP4CEODDTY" target="1491146445847957504" id="149" weight="1" type="reply" />
+      <edge source="@luizsoroca" target="@aguedescartoon" id="150" weight="1" type="mention" />
+      <edge source="@luizsoroca" target="1491140018211258368" id="151" weight="1" type="reply" />
+      <edge source="@eeuseiIaporra" target="@Phelipe_MP" id="152" weight="1" type="mention" />
+      <edge source="@eeuseiIaporra" target="@Taih_Cruz" id="153" weight="1" type="mention" />
+      <edge source="@eeuseiIaporra" target="@bicmuller" id="154" weight="1" type="mention" />
+      <edge source="@eeuseiIaporra" target="@monark" id="155" weight="1" type="mention" />
+      <edge source="@eeuseiIaporra" target="1491216535360503810" id="156" weight="1" type="reply" />
+      <edge source="@VitekoMatos" target="@elementosmag" id="157" weight="1" type="mention" />
+      <edge source="@VitekoMatos" target="@mvbill" id="158" weight="1" type="mention" />
+      <edge source="@VitekoMatos" target="@monark" id="159" weight="1" type="mention" />
+      <edge source="@VitekoMatos" target="@flowpdc" id="160" weight="1" type="mention" />
+      <edge source="@VitekoMatos" target="1491201441117388801" id="161" weight="1" type="reply" />
+      <edge source="@FilipeSsi" target="@GallottiGraca" id="162" weight="1" type="mention" />
+      <edge source="@FilipeSsi" target="@iFood" id="163" weight="1" type="mention" />
+      <edge source="@FilipeSsi" target="1491084685568770050" id="164" weight="1" type="reply" />
+      <edge source="@Hoshi_006" target="@Cricamg" id="165" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@iFood" id="166" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@PrimeVideoBR" id="167" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@Ragazzo" id="168" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@pumabrasil" id="169" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@amazonmusic" id="170" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="@wiseupbr" id="171" weight="1" type="mention" />
+      <edge source="@Hoshi_006" target="1491055125871624194" id="172" weight="1" type="reply" />
+      <edge source="@IMalmaceda" target="@iFood" id="173" weight="1" type="mention" />
+      <edge source="@IMalmaceda" target="@PrimeVideoBR" id="174" weight="1" type="mention" />
+      <edge source="@IMalmaceda" target="@Ragazzo" id="175" weight="1" type="mention" />
+      <edge source="@IMalmaceda" target="@pumabrasil" id="176" weight="1" type="mention" />
+      <edge source="@IMalmaceda" target="@amazonmusic" id="177" weight="1" type="mention" />
+      <edge source="@IMalmaceda" target="@wiseupbr" id="178" weight="1" type="mention" />
+      <edge source="@mosconisep" target="@o_rafuxo" id="179" weight="1" type="mention" />
+      <edge source="@mosconisep" target="1491210908273881091" id="180" weight="1" type="reply" />
+      <edge source="@bossi_rafael" target="@Jujucactos" id="181" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@ErikakHilton" id="182" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@wiseupbr" id="183" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@Ragazzo" id="184" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@amazonmusic" id="185" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@pumabrasil" id="186" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@Finclass_br" id="187" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@iFood" id="188" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@PrimeVideoBR" id="189" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="@MastercardBR" id="190" weight="1" type="mention" />
+      <edge source="@bossi_rafael" target="1491087222002843648" id="191" weight="1" type="reply" />
+      <edge source="@nardinbe" target="@__lusouzaa__" id="192" weight="1" type="mention" />
+      <edge source="@nardinbe" target="1491205769723002880" id="193" weight="1" type="reply" />
+      <edge source="@gald_ino" target="@arthurmoledoval" id="194" weight="1" type="mention" />
+      <edge source="@gald_ino" target="@monark" id="195" weight="1" type="mention" />
+      <edge source="@gald_ino" target="1491186772780683267" id="196" weight="1" type="reply" />
+      <edge source="@gisellemadv" target="@exame" id="197" weight="1" type="mention" />
+      <edge source="@AdolfoOftalmo" target="@igor_3k" id="198" weight="1" type="mention" />
+      <edge source="@AdolfoOftalmo" target="@iFood" id="199" weight="1" type="mention" />
+      <edge source="@AdolfoOftalmo" target="@UberEats_br" id="200" weight="1" type="mention" />
+      <edge source="@AdolfoOftalmo" target="1454763095679774721" id="201" weight="1" type="reply" />
+      <edge source="@bizzirobinson" target="@jpdoficial1" id="202" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@slpng_giants_pt" id="203" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@monark" id="204" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@iFood" id="205" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@Insiderstore" id="206" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@Ragazzo" id="207" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@PrimeVideoBR" id="208" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@amazonmusic" id="209" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@pumabrasil" id="210" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@FatalModel" id="211" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="@Finclass_br" id="212" weight="2" type="mention" />
+      <edge source="@bizzirobinson" target="1491207761753153538" id="213" weight="1" type="reply" />
+      <edge source="@bizzirobinson" target="1491032320215715841" id="214" weight="1" type="reply" />
+      <edge source="@Akirausp" target="@rafaeldalla" id="215" weight="1" type="mention" />
+      <edge source="@Akirausp" target="@monark" id="216" weight="1" type="mention" />
+      <edge source="@Akirausp" target="@flowpdc" id="217" weight="1" type="mention" />
+      <edge source="@Akirausp" target="1491147847735349250" id="218" weight="1" type="reply" />
+      <edge source="@Neizinho_tiks" target="@GallottiGraca" id="219" weight="1" type="mention" />
+      <edge source="@Neizinho_tiks" target="@iFood" id="220" weight="1" type="mention" />
+      <edge source="@Neizinho_tiks" target="1491084685568770050" id="221" weight="1" type="reply" />
+      <edge source="@OdicehSusko777" target="@Cricamg" id="222" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@iFood" id="223" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@PrimeVideoBR" id="224" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@Ragazzo" id="225" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@pumabrasil" id="226" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@amazonmusic" id="227" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="@wiseupbr" id="228" weight="1" type="mention" />
+      <edge source="@OdicehSusko777" target="1491055125871624194" id="229" weight="1" type="reply" />
+      <edge source="@Emanuel_Arauj0_" target="@sportsbetiobr" id="230" weight="1" type="mention" />
+      <edge source="@Emanuel_Arauj0_" target="1491131466339987456" id="231" weight="1" type="reply" />
+      <edge source="@Forado19" target="@iFood" id="232" weight="1" type="mention" />
+      <edge source="@Forado19" target="@monark" id="233" weight="1" type="mention" />
+      <edge source="@Forado19" target="iFood" id="234" weight="1" type="reply" />
+      <edge source="@flplaureano" target="@iFood" id="235" weight="1" type="mention" />
+      <edge source="@flplaureano" target="1491081396059885573" id="236" weight="1" type="reply" />
+      <edge source="@ptnuncamaiis" target="@iFood" id="237" weight="1" type="mention" />
+      <edge source="@ptnuncamaiis" target="@PrimeVideoBR" id="238" weight="1" type="mention" />
+      <edge source="@ptnuncamaiis" target="@Ragazzo" id="239" weight="1" type="mention" />
+      <edge source="@ptnuncamaiis" target="@pumabrasil" id="240" weight="1" type="mention" />
+      <edge source="@ptnuncamaiis" target="@amazonmusic" id="241" weight="1" type="mention" />
+      <edge source="@ptnuncamaiis" target="@wiseupbr" id="242" weight="1" type="mention" />
+      <edge source="@misty__ynyn" target="@cafecomwill" id="243" weight="2" type="mention" />
+      <edge source="@misty__ynyn" target="1491203050182430721" id="244" weight="1" type="reply" />
+      <edge source="@misty__ynyn" target="1491173390253981697" id="245" weight="1" type="reply" />
+      <edge source="@RafaelRamos85" target="@monark" id="246" weight="1" type="mention" />
+      <edge source="@RafaelRamos85" target="1491087858933055488" id="247" weight="1" type="reply" />
+      <edge source="@crisprodrigues" target="1491203560755064834" id="248" weight="1" type="reply" />
+      <edge source="@leeafie" target="@inst_lula" id="249" weight="1" type="mention" />
+      <edge source="@leeafie" target="@LulaOficial" id="250" weight="1" type="mention" />
+      <edge source="@OliveiraSouz2" target="@Ricardo42972315" id="251" weight="1" type="mention" />
+      <edge source="@OliveiraSouz2" target="@mylaura_m" id="252" weight="1" type="mention" />
+      <edge source="@OliveiraSouz2" target="1491116271945285632" id="253" weight="1" type="reply" />
+      <edge source="@projetochad" target="@ifood" id="254" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@Riveres" id="255" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@jpdoficial1" id="256" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@slpng_giants_pt" id="257" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@monark" id="258" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@iFood" id="259" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@Insiderstore" id="260" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@Ragazzo" id="261" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@PrimeVideoBR" id="262" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@amazonmusic" id="263" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@pumabrasil" id="264" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@FatalModel" id="265" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="@Finclass_br" id="266" weight="1" type="mention" />
+      <edge source="@AKIGOTCH" target="1491171821223563264" id="267" weight="1" type="reply" />
+      <edge source="@Azevedowlsa" target="@devnic_" id="268" weight="1" type="mention" />
+      <edge source="@Azevedowlsa" target="@monark" id="269" weight="1" type="mention" />
+      <edge source="@Azevedowlsa" target="1491119025824632834" id="270" weight="1" type="reply" />
+      <edge source="@LuizHiero" target="@Flerya182" id="271" weight="1" type="mention" />
+      <edge source="@UmNoturno" target="@Juarezbitcoi" id="272" weight="1" type="mention" />
+      <edge source="@UmNoturno" target="@vacapanaca" id="273" weight="1" type="mention" />
+      <edge source="@irangrilo" target="@artyralmeida" id="274" weight="1" type="mention" />
+      <edge source="@fpratees" target="@naborbaa" id="275" weight="1" type="mention" />
+      <edge source="@fpratees" target="1491218407492325378" id="276" weight="1" type="reply" />
+      <edge source="@MHArakaki1" target="@arthurmoledoval" id="277" weight="1" type="mention" />
+      <edge source="@MHArakaki1" target="@monark" id="278" weight="1" type="mention" />
+      <edge source="@MHArakaki1" target="1491186772780683267" id="279" weight="1" type="reply" />
+      <edge source="@levibeyker" target="@monark" id="280" weight="1" type="mention" />
+      <edge source="@levibeyker" target="@Monark" id="281" weight="1" type="mention" />
+      <edge source="@levibeyker" target="1491212374988443648" id="282" weight="1" type="reply" />
+      <edge source="@motejar" target="@monark" id="283" weight="2" type="mention" />
+      <edge source="@motejar" target="@Chief117Br" id="284" weight="1" type="mention" />
+      <edge source="@motejar" target="@igor_3k" id="285" weight="1" type="mention" />
+      <edge source="@motejar" target="1491088785660329985" id="286" weight="1" type="reply" />
+      <edge source="@motejar" target="1491202260927655936" id="287" weight="1" type="reply" />
+      <edge source="@jastf1931" target="@cirogomes" id="288" weight="1" type="mention" />
+      <edge source="@jastf1931" target="1491146033111261185" id="289" weight="1" type="reply" />
+      <edge source="@mekkyku" target="@brundren" id="290" weight="1" type="mention" />
+      <edge source="@mekkyku" target="@rafaelrigo" id="291" weight="1" type="mention" />
+      <edge source="@mekkyku" target="@MKCRF22" id="292" weight="1" type="mention" />
+      <edge source="@mekkyku" target="@doktorzim" id="293" weight="1" type="mention" />
+      <edge source="@mekkyku" target="@CuriosidadesBRL" id="294" weight="1" type="mention" />
+      <edge source="@mekkyku" target="1491202197044219910" id="295" weight="1" type="reply" />
+      <edge source="@chicomagazine" target="@ronaldo_sousajr" id="296" weight="1" type="mention" />
+      <edge source="@chicomagazine" target="@felipegoldenb" id="297" weight="1" type="mention" />
+      <edge source="@chicomagazine" target="@monark" id="298" weight="1" type="mention" />
+      <edge source="@chicomagazine" target="1491205851079917576" id="299" weight="1" type="reply" />
+      <edge source="@lucas_negrucci" target="@Chief117Br" id="300" weight="1" type="mention" />
+      <edge source="@lucas_negrucci" target="@igor_3k" id="301" weight="1" type="mention" />
+      <edge source="@lucas_negrucci" target="@monark" id="302" weight="1" type="mention" />
+      <edge source="@lucas_negrucci" target="1491195717918273539" id="303" weight="1" type="reply" />
+      <edge source="@GbrFDC" target="@erickpenero" id="304" weight="1" type="mention" />
+      <edge source="@GbrFDC" target="@Matsuuuuna" id="305" weight="1" type="mention" />
+      <edge source="@GbrFDC" target="@Linszzs" id="306" weight="1" type="mention" />
+      <edge source="@GbrFDC" target="@maiconkusterk" id="307" weight="1" type="mention" />
+      <edge source="@GbrFDC" target="1491203093547352070" id="308" weight="1" type="reply" />
+      <edge source="@cauedelvalle" target="@KimKataguiri" id="309" weight="1" type="mention" />
+      <edge source="@falarealmesmo" target="@Desesquerdizada" id="310" weight="1" type="mention" />
+      <edge source="@falarealmesmo" target="1490395277194416134" id="311" weight="1" type="reply" />
+      <edge source="@feeernandes32" target="@Larissa_BMatos" id="312" weight="1" type="mention" />
+      <edge source="@feeernandes32" target="@ovenuspodcast" id="313" weight="1" type="mention" />
+      <edge source="@feeernandes32" target="1491215353304989698" id="314" weight="1" type="reply" />
+      <edge source="@_ruoyeh" target="@PlZero9" id="315" weight="1" type="mention" />
+      <edge source="@_ruoyeh" target="1491241786106589186" id="316" weight="1" type="reply" />
+      <edge source="@isaelbryan1" target="@Izzombie" id="317" weight="1" type="mention" />
+      <edge source="@isaelbryan1" target="1491178001102675968" id="318" weight="1" type="reply" />
+      <edge source="@caioofran" target="@monark" id="319" weight="1" type="mention" />
+      <edge source="@caioofran" target="1491087858933055488" id="320" weight="1" type="reply" />
+      <edge source="@XandZeraaa" target="@monark" id="321" weight="1" type="mention" />
+      <edge source="@XandZeraaa" target="monark" id="322" weight="1" type="reply" />
+      <edge source="@FelipePeruzzo" target="@bernronc" id="323" weight="1" type="mention" />
+      <edge source="@FelipePeruzzo" target="@monark" id="324" weight="1" type="mention" />
+      <edge source="@FelipePeruzzo" target="1491204352018501632" id="325" weight="1" type="reply" />
+      <edge source="@marcelobenini" target="@Helinhi" id="326" weight="1" type="mention" />
+      <edge source="@marcelobenini" target="@Metropoles" id="327" weight="1" type="mention" />
+      <edge source="@marcelobenini" target="1491223858636271616" id="328" weight="1" type="reply" />
+      <edge source="@DCreedzs" target="@monark" id="329" weight="1" type="mention" />
+      <edge source="@DCreedzs" target="1491087858933055488" id="330" weight="1" type="reply" />
+      <edge source="@stevenester1234" target="@ermisualves" id="331" weight="1" type="mention" />
+      <edge source="@stevenester1234" target="@amdre_young" id="332" weight="1" type="mention" />
+      <edge source="@stevenester1234" target="1491209931776991234" id="333" weight="1" type="reply" />
+      <edge source="@marco_dharma" target="@ShiroiRaito" id="334" weight="1" type="mention" />
+      <edge source="@marco_dharma" target="1491231476062785538" id="335" weight="1" type="reply" />
+      <edge source="@SuzanaFlagg" target="@NaoInviabilize" id="336" weight="1" type="mention" />
+      <edge source="@SuzanaFlagg" target="1491060244314988544" id="337" weight="1" type="reply" />
+      <edge source="@rhadamyssaints" target="@monark" id="338" weight="1" type="mention" />
+      <edge source="@rhadamyssaints" target="@flowpdc" id="339" weight="1" type="mention" />
+      <edge source="@rhadamyssaints" target="monark" id="340" weight="1" type="reply" />
+      <edge source="@hgsouza02" target="@aIexbroca" id="341" weight="1" type="mention" />
+      <edge source="@hgsouza02" target="1491232417230712833" id="342" weight="1" type="reply" />
+      <edge source="@edson_seninha" target="@paulocruzphi" id="343" weight="1" type="mention" />
+      <edge source="@edson_seninha" target="1491148949721616385" id="344" weight="1" type="reply" />
+      <edge source="@thigmel" target="@Chief117Br" id="345" weight="1" type="mention" />
+      <edge source="@thigmel" target="1491228166878539776" id="346" weight="1" type="reply" />
+      <edge source="@OverhaulVon" target="@MikasaUma" id="347" weight="1" type="mention" />
+      <edge source="@OverhaulVon" target="1491228890702180354" id="348" weight="1" type="reply" />
+      <edge source="@apavoneleite" target="@YouTube" id="349" weight="1" type="mention" />
+      <edge source="@MikasaUma" target="@OverhaulVon" id="350" weight="1" type="mention" />
+      <edge source="@MikasaUma" target="1491226406315245568" id="351" weight="1" type="reply" />
+      <edge source="@Milton53saj" target="@arthurmoledoval" id="352" weight="1" type="mention" />
+      <edge source="@Milton53saj" target="@monark" id="353" weight="1" type="mention" />
+      <edge source="@Milton53saj" target="1491186772780683267" id="354" weight="1" type="reply" />
+      <edge source="@CaptainSpeke" target="@monark" id="355" weight="1" type="mention" />
+      <edge source="@CaptainSpeke" target="1491087858933055488" id="356" weight="1" type="reply" />
+      <edge source="@gnomo_gnomoh" target="@AliceKi13433874" id="357" weight="1" type="mention" />
+      <edge source="@gnomo_gnomoh" target="1491221509041721344" id="358" weight="1" type="reply" />
+      <edge source="@morenteeee" target="@IgorLorens" id="359" weight="1" type="mention" />
+      <edge source="@morenteeee" target="@monark" id="360" weight="1" type="mention" />
+      <edge source="@morenteeee" target="1491226260814831617" id="361" weight="1" type="reply" />
+      <edge source="@celsione" target="@flowpdc" id="362" weight="1" type="mention" />
+      <edge source="@VictorC49504567" target="@lett1337" id="363" weight="1" type="mention" />
+      <edge source="@VictorC49504567" target="1491127705152397312" id="364" weight="1" type="reply" />
+      <edge source="@EvanirJSantos" target="@RomuloScott" id="365" weight="1" type="mention" />
+      <edge source="@EvanirJSantos" target="@monark" id="366" weight="1" type="mention" />
+      <edge source="@EvanirJSantos" target="1491110002039586817" id="367" weight="1" type="reply" />
+      <edge source="@IltonBJ1" target="@monark" id="368" weight="1" type="mention" />
+      <edge source="@IltonBJ1" target="1491087858933055488" id="369" weight="1" type="reply" />
+      <edge source="@Albertoimbiriba" target="@_Danilopinto" id="370" weight="1" type="mention" />
+      <edge source="@Albertoimbiriba" target="@monark" id="371" weight="1" type="mention" />
+      <edge source="@Albertoimbiriba" target="@KimKataguiri" id="372" weight="1" type="mention" />
+      <edge source="@Albertoimbiriba" target="1491222467645702145" id="373" weight="1" type="reply" />
+      <edge source="@RafaelM54320715" target="@thigagliasso" id="374" weight="1" type="mention" />
+      <edge source="@RafaelM54320715" target="1491105576486858755" id="375" weight="1" type="reply" />
+      <edge source="@Limetinho" target="@r4fwel" id="376" weight="1" type="mention" />
+      <edge source="@Limetinho" target="1491203747485159427" id="377" weight="1" type="reply" />
+      <edge source="@Marco_Pereira13" target="@diImabr" id="378" weight="1" type="mention" />
+      <edge source="@Marco_Pereira13" target="1491070863701123076" id="379" weight="1" type="reply" />
+      <edge source="@dhdemoner" target="@HelemAzevedo" id="380" weight="1" type="mention" />
+      <edge source="@dhdemoner" target="1491219900022804480" id="381" weight="1" type="reply" />
+      <edge source="@JoaoEmanuelMN2" target="@prometeshahaha" id="382" weight="1" type="mention" />
+      <edge source="@JoaoEmanuelMN2" target="@monark" id="383" weight="1" type="mention" />
+      <edge source="@theodoroobasta1" target="@__lilybraun" id="384" weight="1" type="mention" />
+      <edge source="@theodoroobasta1" target="1491205960131833857" id="385" weight="1" type="reply" />
+      <edge source="@thcesar97" target="@Caiky_3" id="386" weight="1" type="mention" />
+      <edge source="@thcesar97" target="@monark" id="387" weight="1" type="mention" />
+      <edge source="@thcesar97" target="1491220410356346883" id="388" weight="1" type="reply" />
+      <edge source="@marcelo4417" target="@antoniotabet" id="389" weight="1" type="mention" />
+      <edge source="@marcelo4417" target="1491218529794007040" id="390" weight="1" type="reply" />
+      <edge source="@CludioMoacirMo1" target="@CiroNoflow" id="391" weight="1" type="mention" />
+      <edge source="@CludioMoacirMo1" target="1491201699742052352" id="392" weight="1" type="reply" />
+      <edge source="@Leonard10546099" target="@arthurmoledoval" id="393" weight="2" type="mention" />
+      <edge source="@Leonard10546099" target="1491087259176943616" id="394" weight="1" type="reply" />
+      <edge source="@diegoponey" target="@todoscomciro" id="395" weight="1" type="mention" />
+      <edge source="@diegoponey" target="@fredcaldeira" id="396" weight="1" type="mention" />
+      <edge source="@diegoponey" target="@delucca" id="397" weight="1" type="mention" />
+      <edge source="@diegoponey" target="@MuseuHolocausto" id="398" weight="1" type="mention" />
+      <edge source="@diegoponey" target="@monark" id="399" weight="2" type="mention" />
+      <edge source="@diegoponey" target="@bicmuller" id="400" weight="1" type="mention" />
+      <edge source="@diegoponey" target="1491183772347342860" id="401" weight="1" type="reply" />
+      <edge source="@diegoponey" target="1491045762784186377" id="402" weight="1" type="reply" />
+      <edge source="@diegoponey" target="1491086297808912384" id="403" weight="1" type="reply" />
+      <edge source="@diegoponey" target="1491083729259106313" id="404" weight="1" type="reply" />
+      <edge source="@diegoponey" target="1491091670024491008" id="405" weight="1" type="reply" />
+      <edge source="@vinycosta9_" target="@Gois_1988" id="406" weight="1" type="mention" />
+      <edge source="@vinycosta9_" target="@ArthemsO" id="407" weight="1" type="mention" />
+      <edge source="@vinycosta9_" target="@monark" id="408" weight="1" type="mention" />
+      <edge source="@vinycosta9_" target="@jairbolsonaro" id="409" weight="1" type="mention" />
+      <edge source="@vinycosta9_" target="1491217367908884482" id="410" weight="1" type="reply" />
+      <edge source="@night_XDDD" target="@VinnyEsquecido" id="411" weight="1" type="mention" />
+      <edge source="@night_XDDD" target="1491214452536254465" id="412" weight="1" type="reply" />
+      <edge source="@WalissonKizyza1" target="@monark" id="413" weight="1" type="mention" />
+      <edge source="@WalissonKizyza1" target="@flowpdc" id="414" weight="1" type="mention" />
+      <edge source="@WalissonKizyza1" target="monark" id="415" weight="1" type="reply" />
+      <edge source="@Kuba_Gleiber" target="@sangii_09" id="416" weight="1" type="mention" />
+      <edge source="@Kuba_Gleiber" target="1491216510895165440" id="417" weight="1" type="reply" />
+      <edge source="@_NiiTing" target="@monark" id="418" weight="1" type="mention" />
+      <edge source="@_NiiTing" target="1491087946853675008" id="419" weight="1" type="reply" />
+      <edge source="@durvalvalladar1" target="@arthurmoledoval" id="420" weight="1" type="mention" />
+      <edge source="@durvalvalladar1" target="@monark" id="421" weight="1" type="mention" />
+      <edge source="@durvalvalladar1" target="1491186772780683267" id="422" weight="1" type="reply" />
+      <edge source="@Estavasemideia1" target="@eitapeula" id="423" weight="1" type="mention" />
+      <edge source="@Estavasemideia1" target="@leonardo1opes" id="424" weight="1" type="mention" />
+      <edge source="@Estavasemideia1" target="1491208269100384256" id="425" weight="1" type="reply" />
+      <edge source="@FutC_PT" target="@archerzin_" id="426" weight="1" type="mention" />
+      <edge source="@FutC_PT" target="1491212836785504257" id="427" weight="1" type="reply" />
+      <edge source="@_galeani" target="@realpfigueiredo" id="428" weight="1" type="mention" />
+      <edge source="@_galeani" target="1491141196538085377" id="429" weight="1" type="reply" />
+      <edge source="@naka8683" target="@arthurmoledoval" id="430" weight="1" type="mention" />
+      <edge source="@naka8683" target="@monark" id="431" weight="1" type="mention" />
+      <edge source="@naka8683" target="1491186772780683267" id="432" weight="1" type="reply" />
+      <edge source="@uarlem" target="@direitasiqueira" id="433" weight="1" type="mention" />
+      <edge source="@uarlem" target="1491151556888043520" id="434" weight="1" type="reply" />
+      <edge source="@nyck20201" target="@taoquei1" id="435" weight="1" type="mention" />
+      <edge source="@nyck20201" target="@monark" id="436" weight="1" type="mention" />
+      <edge source="@nyck20201" target="1491088479560044545" id="437" weight="1" type="reply" />
+      <edge source="@_Grimjonny_" target="@Jumpz___" id="438" weight="1" type="mention" />
+      <edge source="@_Grimjonny_" target="1491209886046523392" id="439" weight="1" type="reply" />
+      <edge source="@Martin_Heil12" target="@monark" id="440" weight="1" type="mention" />
+      <edge source="@Martin_Heil12" target="1491087858933055488" id="441" weight="1" type="reply" />
+      <edge source="@DwightSchrute65" target="@pedrocertezas" id="442" weight="1" type="mention" />
+      <edge source="@DwightSchrute65" target="1491203865039216641" id="443" weight="1" type="reply" />
+      <edge source="@erasmolbj" target="@monark" id="444" weight="1" type="mention" />
+      <edge source="@misterlc" target="@CanaldoNegaoo" id="445" weight="1" type="mention" />
+      <edge source="@misterlc" target="@monark" id="446" weight="1" type="mention" />
+      <edge source="@misterlc" target="1491208636638822400" id="447" weight="1" type="reply" />
+      <edge source="@victorsouzacn" target="@arthurmoledoval" id="448" weight="1" type="mention" />
+      <edge source="@victorsouzacn" target="@monark" id="449" weight="1" type="mention" />
+      <edge source="@victorsouzacn" target="1491186772780683267" id="450" weight="1" type="reply" />
+      <edge source="@SpinheiroP" target="@kimpaim" id="451" weight="1" type="mention" />
+      <edge source="@SpinheiroP" target="@rmotta2" id="452" weight="1" type="mention" />
+      <edge source="@SpinheiroP" target="1491189852393861122" id="453" weight="1" type="reply" />
+      <edge source="@SpinheiroP" target="1491196774358274048" id="454" weight="1" type="reply" />
+      <edge source="@CLAUDIOJARDIMD1" target="@YouTube" id="455" weight="1" type="mention" />
+      <edge source="@thcooelho" target="@soouza_7" id="456" weight="1" type="mention" />
+      <edge source="@thcooelho" target="1491189270027337730" id="457" weight="1" type="reply" />
+      <edge source="@pedrosa10" target="@antoniotabet" id="458" weight="1" type="mention" />
+      <edge source="@pedrosa10" target="1491117422711283712" id="459" weight="1" type="reply" />
+      <edge source="@SCoitadinho" target="@AndreLajst" id="460" weight="1" type="mention" />
+      <edge source="@SCoitadinho" target="1491192905679405061" id="461" weight="1" type="reply" />
+      <edge source="@art_hurt__" target="@connected_boy" id="462" weight="1" type="mention" />
+      <edge source="@art_hurt__" target="@peterjordan100" id="463" weight="1" type="mention" />
+      <edge source="@art_hurt__" target="1491147767347314688" id="464" weight="1" type="reply" />
+      <edge source="@Andr_530" target="@gozeinacueca" id="465" weight="1" type="mention" />
+      <edge source="@Andr_530" target="1491199710014894081" id="466" weight="1" type="reply" />
+      <edge source="@FDS__Gabriel" target="@monark" id="467" weight="1" type="mention" />
+      <edge source="@FDS__Gabriel" target="1491126157676548097" id="468" weight="1" type="reply" />
+      <edge source="@MarioBonizzoni" target="@Rconstantino" id="469" weight="1" type="mention" />
+      <edge source="@MarioBonizzoni" target="1491200974303956992" id="470" weight="1" type="reply" />
+      <edge source="@__cancelado__" target="@CrisBernart" id="471" weight="1" type="mention" />
+      <edge source="@__cancelado__" target="@monark" id="472" weight="2" type="mention" />
+      <edge source="@__cancelado__" target="1491156332816506882" id="473" weight="1" type="reply" />
+      <edge source="@RodMota7" target="@bravecherryy" id="474" weight="1" type="mention" />
+      <edge source="@RodMota7" target="@LeviKaique" id="475" weight="1" type="mention" />
+      <edge source="@yuricaminhoes" target="@raulalfalrisha" id="476" weight="1" type="mention" />
+      <edge source="@yuricaminhoes" target="1491199970623787010" id="477" weight="1" type="reply" />
+      <edge source="@BbtoFns" target="@monark" id="478" weight="1" type="mention" />
+      <edge source="@BbtoFns" target="1491087858933055488" id="479" weight="1" type="reply" />
+      <edge source="@nostalgialofi" target="@cauemoura" id="480" weight="1" type="mention" />
+      <edge source="@nostalgialofi" target="1491101290788655104" id="481" weight="1" type="reply" />
+      <edge source="@blackshart1690" target="@danimagcruzeiro" id="482" weight="1" type="mention" />
+      <edge source="@blackshart1690" target="@lett1337" id="483" weight="1" type="mention" />
+      <edge source="@blackshart1690" target="@mateusmagFAL" id="484" weight="1" type="mention" />
+      <edge source="@blackshart1690" target="1491200196046311428" id="485" weight="1" type="reply" />
+      <edge source="@obertobr" target="@monark" id="486" weight="1" type="mention" />
+      <edge source="@obertobr" target="1491192659037552644" id="487" weight="1" type="reply" />
+      <edge source="@_SPNoticias" target="1491220510990278657" id="488" weight="1" type="reply" />
+      <edge source="@queirogalouise" target="@mpsp_oficial" id="489" weight="1" type="mention" />
+      <edge source="@Marcos__VMP" target="@amaraluai" id="490" weight="1" type="mention" />
+      <edge source="@Marcos__VMP" target="1491097083029377029" id="491" weight="1" type="reply" />
+      <edge source="@vermelhimm" target="@PCO29" id="492" weight="1" type="mention" />
+      <edge source="@vermelhimm" target="1491136379761434632" id="493" weight="1" type="reply" />
+      <edge source="@obigtoon" target="@alefreitasdep" id="494" weight="1" type="mention" />
+      <edge source="@obigtoon" target="@monark" id="495" weight="1" type="mention" />
+      <edge source="@obigtoon" target="1491140370868338689" id="496" weight="1" type="reply" />
+      <edge source="@Matheus24069177" target="@OnurbGuilherme" id="497" weight="1" type="mention" />
+      <edge source="@Matheus24069177" target="1491229051247370245" id="498" weight="1" type="reply" />
+      <edge source="@vermelhos_sim" target="@LcioAlvesdeBar1" id="499" weight="1" type="mention" />
+      <edge source="@vermelhos_sim" target="1491213451582394370" id="500" weight="1" type="reply" />
+      <edge source="@f_amaral76" target="@DilmaeTaON" id="501" weight="1" type="mention" />
+      <edge source="@f_amaral76" target="1491147808665407488" id="502" weight="1" type="reply" />
+      <edge source="@Vamoqvamooo" target="@MBLivre" id="503" weight="1" type="mention" />
+      <edge source="@Vamoqvamooo" target="@KimKataguiri" id="504" weight="1" type="mention" />
+      <edge source="@Vamoqvamooo" target="@monark" id="505" weight="1" type="mention" />
+      <edge source="@Vamoqvamooo" target="1491063042028847112" id="506" weight="1" type="reply" />
+      <edge source="@MontanhesGerson" target="@zehdeabreu" id="507" weight="1" type="mention" />
+      <edge source="@MontanhesGerson" target="@haddaddebocha13" id="508" weight="1" type="mention" />
+      <edge source="@MontanhesGerson" target="1491187257302204420" id="509" weight="1" type="reply" />
+      <edge source="@MontanhesGerson" target="1491187900821635072" id="510" weight="1" type="reply" />
+      <edge source="@amarkevicius" target="@KimKataguiri" id="511" weight="1" type="mention" />
+      <edge source="@amarkevicius" target="@monark" id="512" weight="1" type="mention" />
+      <edge source="@amarkevicius" target="KimKataguiri" id="513" weight="1" type="reply" />
+      <edge source="@mvmp_webdesign" target="@meteoro_br" id="514" weight="1" type="mention" />
+      <edge source="@mvmp_webdesign" target="1491175033238351873" id="515" weight="1" type="reply" />
+      <edge source="@j_preto_" target="@larissanps" id="516" weight="1" type="mention" />
+      <edge source="@j_preto_" target="1491142900528578560" id="517" weight="1" type="reply" />
+      <edge source="@gutobarreto88" target="@KimKataguiri" id="518" weight="1" type="mention" />
+      <edge source="@gutobarreto88" target="1491175226583191553" id="519" weight="1" type="reply" />
+      <edge source="@LordjonathanRb" target="@moura_101" id="520" weight="1" type="mention" />
+      <edge source="@LordjonathanRb" target="@monark" id="521" weight="1" type="mention" />
+      <edge source="@LordjonathanRb" target="@KimKataguiri" id="522" weight="2" type="mention" />
+      <edge source="@LordjonathanRb" target="1491181497197690880" id="523" weight="1" type="reply" />
+      <edge source="@JoviJoviana" target="@PauloCsarGuima1" id="524" weight="1" type="mention" />
+      <edge source="@JoviJoviana" target="@GiscardRichard" id="525" weight="1" type="mention" />
+      <edge source="@JoviJoviana" target="1491144304093712384" id="526" weight="1" type="reply" />
+    </edges>
+  </graph>
+</gexf>

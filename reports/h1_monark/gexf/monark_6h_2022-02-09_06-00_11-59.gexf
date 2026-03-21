@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-15">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="KayrusFenix" label="KayrusFenix" />
+      <node id="ElCuscuz" label="ElCuscuz" />
+      <node id="samismuriell" label="samismuriell" />
+      <node id="1345206382312775680" label="desmentindobozo" />
+      <node id="896736181198741505" label="filgmartin" />
+      <node id="desmentindobozo" label="desmentindobozo" />
+      <node id="tesourodopapai_" label="tesourodopapai_" />
+      <node id="carolcarolinars" label="carolcarolinars" />
+      <node id="bernardofruch" label="bernardofruch" />
+      <node id="leonaraujo" label="leonaraujo" />
+      <node id="GorinoRipley" label="GorinoRipley" />
+      <node id="27699093" label="filipetrielli" />
+      <node id="filipetrielli" label="filipetrielli" />
+      <node id="bxdzoom" label="bxdzoom" />
+      <node id="zotFPS" label="zotFPS" />
+      <node id="1153473261583380480" label="becarr_" />
+      <node id="becarr_" label="becarr_" />
+      <node id="Al54804971" label="Al54804971" />
+      <node id="adames__24" label="adames__24" />
+      <node id="Antonytallo2" label="Antonytallo2" />
+      <node id="1272507913991585793" label="roberta_bastoss" />
+      <node id="roberta_bastoss" label="roberta_bastoss" />
+      <node id="Matheus71414121" label="Matheus71414121" />
+      <node id="1487018827917537285" label="Aquiles_Argolo" />
+      <node id="292383655" label="iFood" />
+      <node id="895261812370939907" label="PrimeVideoBR" />
+      <node id="388920424" label="Ragazzo" />
+      <node id="281551749" label="pumabrasil" />
+      <node id="14740219" label="amazonmusic" />
+      <node id="244333834" label="wiseupbr" />
+      <node id="Aquiles_Argolo" label="Aquiles_Argolo" />
+      <node id="impropriosrs" label="impropriosrs" />
+      <node id="iFood" label="iFood" />
+      <node id="_niconanico" label="_niconanico" />
+      <node id="jyzien" label="jyzien" />
+      <node id="0Conservador4" label="0Conservador4" />
+      <node id="242967720" label="monark" />
+      <node id="FilipeS08549937" label="FilipeS08549937" />
+      <node id="jornalextra" label="jornalextra" />
+      <node id="montanaroo" label="montanaroo" />
+      <node id="AlexStampede" label="AlexStampede" />
+      <node id="RobinGo85" label="RobinGo85" />
+      <node id="735153008238071809" label="marlon_f9" />
+      <node id="953378142198161409" label="choquei" />
+      <node id="marlon_f9" label="marlon_f9" />
+      <node id="deoliveira888" label="deoliveira888" />
+      <node id="178169591" label="leoportela_" />
+      <node id="3060235071" label="AdrillesRJorge" />
+      <node id="106175018" label="JovemPanNews" />
+      <node id="leoportela_" label="leoportela_" />
+      <node id="ifuseek_matt" label="ifuseek_matt" />
+      <node id="4063661553" label="rogeravga" />
+      <node id="rogeravga" label="rogeravga" />
+      <node id="RenanzeeiraFla" label="RenanzeeiraFla" />
+      <node id="rethexx" label="rethexx" />
+      <node id="LipeCamarossi" label="LipeCamarossi" />
+      <node id="grupocapu" label="grupocapu" />
+      <node id="jao__victorr" label="jao__victorr" />
+      <node id="Liima_yaas" label="Liima_yaas" />
+      <node id="DomPedro3o" label="DomPedro3o" />
+      <node id="edsartorato" label="edsartorato" />
+      <node id="dedegaspa" label="dedegaspa" />
+      <node id="Gmc_31" label="Gmc_31" />
+      <node id="162453393" label="aguedescartoon" />
+      <node id="aguedescartoon" label="aguedescartoon" />
+      <node id="__Lorranna__" label="__Lorranna__" />
+      <node id="ricardoaccampos" label="ricardoaccampos" />
+      <node id="25029808" label="guilherme_amado" />
+      <node id="1371197850672115714" label="estudiosflow" />
+      <node id="guilherme_amado" label="guilherme_amado" />
+      <node id="futuro_tk" label="futuro_tk" />
+      <node id="AllexNishik" label="AllexNishik" />
+      <node id="mdsouza25" label="mdsouza25" />
+      <node id="36751573" label="sensacionalista" />
+      <node id="sensacionalista" label="sensacionalista" />
+      <node id="Henriquefuzari" label="Henriquefuzari" />
+      <node id="AdrillesRJorge" label="AdrillesRJorge" />
+      <node id="max_cam_" label="max_cam_" />
+      <node id="IolyVan" label="IolyVan" />
+      <node id="753607579717230593" label="Alemanha_BR" />
+      <node id="1494658207" label="KimKataguiri" />
+      <node id="1001251931812220928" label="tabataamaralsp" />
+      <node id="1188910076037345280" label="flowpdc" />
+      <node id="monark" label="monark" />
+      <node id="eobraya21" label="eobraya21" />
+      <node id="MorganaGibelli" label="MorganaGibelli" />
+      <node id="53912612" label="pedropjbrandao" />
+      <node id="pedropjbrandao" label="pedropjbrandao" />
+      <node id="PaduPrado" label="PaduPrado" />
+      <node id="misatinho" label="misatinho" />
+      <node id="GenmaPanda" label="GenmaPanda" />
+      <node id="arthurwdev" label="arthurwdev" />
+      <node id="igaobergz" label="igaobergz" />
+      <node id="Hyttalo5" label="Hyttalo5" />
+      <node id="isapenna" label="isapenna" />
+      <node id="BrMassami" label="BrMassami" />
+      <node id="leonardoibe" label="leonardoibe" />
+      <node id="irmaodostuart" label="irmaodostuart" />
+      <node id="109650161" label="lsaddocki" />
+      <node id="1476982805691355144" label="AguiiarFla" />
+      <node id="61917230" label="mateushe" />
+      <node id="770973413477408768" label="pedrocertezas" />
+      <node id="lsaddocki" label="lsaddocki" />
+      <node id="mendesluizpaulo" label="mendesluizpaulo" />
+      <node id="MauricioCha1b" label="MauricioCha1b" />
+      <node id="diegomoreau" label="diegomoreau" />
+      <node id="bachristie7" label="bachristie7" />
+      <node id="silviamarques" label="silviamarques" />
+      <node id="14594813" label="folha" />
+      <node id="folha" label="folha" />
+      <node id="CampinasPedro" label="CampinasPedro" />
+      <node id="151635190" label="pragmatismo_" />
+      <node id="andrecarangola" label="andrecarangola" />
+      <node id="apavoneleite" label="apavoneleite" />
+      <node id="10228272" label="YouTube" />
+      <node id="arthurhpc94" label="arthurhpc94" />
+      <node id="896551027939450880" label="RPMatiussi" />
+      <node id="RPMatiussi" label="RPMatiussi" />
+      <node id="TiaBiba49" label="TiaBiba49" />
+      <node id="blogdobeck" label="blogdobeck" />
+      <node id="PomboRanzinza" label="PomboRanzinza" />
+      <node id="1573284348555661314" label="BrunaTorlay" />
+      <node id="oliveirajoaoo10" label="oliveirajoaoo10" />
+      <node id="roodneyfb" label="roodneyfb" />
+      <node id="ElisetePena" label="ElisetePena" />
+      <node id="portalpopcyber" label="portalpopcyber" />
+      <node id="marcioayer" label="marcioayer" />
+      <node id="1076667797063766018" label="T3ddyHelp" />
+      <node id="1495813780604952587" label="podpahpodcast" />
+      <node id="T3ddyHelp" label="T3ddyHelp" />
+      <node id="priscillalleite" label="priscillalleite" />
+      <node id="brunabrelaz" label="brunabrelaz" />
+      <node id="pollplace1" label="pollplace1" />
+      <node id="605873913" label="AdrianoSobral1" />
+      <node id="AdrianoSobral1" label="AdrianoSobral1" />
+      <node id="ppdrro" label="ppdrro" />
+      <node id="DeiaCardoso" label="DeiaCardoso" />
+      <node id="259840707" label="MPF_PGR" />
+      <node id="jomirofi" label="jomirofi" />
+      <node id="NeutroeShampoo" label="NeutroeShampoo" />
+      <node id="juniororosco_sp" label="juniororosco_sp" />
+      <node id="allissonshrad" label="allissonshrad" />
+      <node id="1438274040" label="evandrocff" />
+      <node id="1666465027" label="pedroloos" />
+      <node id="evandrocff" label="evandrocff" />
+      <node id="Vleydson" label="Vleydson" />
+      <node id="barbudodaanne" label="barbudodaanne" />
+      <node id="2167308481" label="ShiroiRaito" />
+      <node id="ShiroiRaito" label="ShiroiRaito" />
+      <node id="RobertoAnaclet8" label="RobertoAnaclet8" />
+      <node id="2779888580" label="Flaviochlessa" />
+      <node id="55740257" label="senhor_soarez" />
+      <node id="1218293323066150918" label="jpdoficial1" />
+      <node id="Flaviochlessa" label="Flaviochlessa" />
+      <node id="PanfleteroBot" label="PanfleteroBot" />
+      <node id="rezende" label="rezende" />
+      <node id="marcelogf" label="marcelogf" />
+      <node id="1095834875716874245" label="GabrielaPrioli" />
+      <node id="oPessanh" label="oPessanh" />
+      <node id="1027659261562810368" label="jantonho" />
+      <node id="1483283021080010754" label="Hatereallity" />
+      <node id="jantonho" label="jantonho" />
+      <node id="xadinhorock" label="xadinhorock" />
+      <node id="1451170611808641028" label="Italo_Vita" />
+      <node id="Italo_Vita" label="Italo_Vita" />
+      <node id="paulinhojpma" label="paulinhojpma" />
+      <node id="dosquinhas" label="dosquinhas" />
+      <node id="1231055333721812994" label="Milla_Cross" />
+      <node id="1441881282070257664" label="SunnySexoo" />
+      <node id="Milla_Cross" label="Milla_Cross" />
+      <node id="andradeez8" label="andradeez8" />
+      <node id="782986516482121728" label="rafatbarradas" />
+      <node id="rafatbarradas" label="rafatbarradas" />
+      <node id="jacksonpercyorg" label="jacksonpercyorg" />
+      <node id="50883209" label="PUMA" />
+      <node id="mminguta" label="mminguta" />
+      <node id="kiorotomo" label="kiorotomo" />
+      <node id="sansaoss" label="sansaoss" />
+      <node id="217385840" label="Khriot" />
+      <node id="56181633" label="fcthiago" />
+      <node id="745831886" label="stephanevw" />
+      <node id="Khriot" label="Khriot" />
+      <node id="iFoodNewsBrasil" label="iFoodNewsBrasil" />
+      <node id="3331429624" label="Metropoles" />
+      <node id="Metropoles" label="Metropoles" />
+      <node id="miel__lima" label="miel__lima" />
+      <node id="hades_mundus" label="hades_mundus" />
+      <node id="g4briel_4lex" label="g4briel_4lex" />
+      <node id="63879860" label="rafalaisa" />
+      <node id="221402775" label="vinnybrandt" />
+      <node id="fernandohabert" label="fernandohabert" />
+      <node id="Fernand77087971" label="Fernand77087971" />
+      <node id="2704400711" label="LsLucianaps" />
+      <node id="LsLucianaps" label="LsLucianaps" />
+      <node id="vinibarbosabr" label="vinibarbosabr" />
+      <node id="LopesSktr" label="LopesSktr" />
+      <node id="1420075097054924807" label="yuriolisfc" />
+      <node id="yuriolisfc" label="yuriolisfc" />
+      <node id="lipemansotdah" label="lipemansotdah" />
+      <node id="69746799" label="visualglitch91" />
+      <node id="visualglitch91" label="visualglitch91" />
+      <node id="jamesnocruzeiro" label="jamesnocruzeiro" />
+      <node id="171627928" label="lucasalexandr_" />
+      <node id="18297088" label="rafinhabastos" />
+      <node id="lucasalexandr_" label="lucasalexandr_" />
+      <node id="Lguilhermes1" label="Lguilhermes1" />
+      <node id="JovemPanNews" label="JovemPanNews" />
+      <node id="AldrinMazzei" label="AldrinMazzei" />
+      <node id="156438783" label="elvisnsep" />
+      <node id="1283770957958656000" label="agrande_verdade" />
+      <node id="34704778" label="aldorebelo" />
+      <node id="186568600" label="MastercardBR" />
+      <node id="819324620256018433" label="Insiderstore" />
+      <node id="4839088324" label="RagazzoOficial" />
+      <node id="elvisnsep" label="elvisnsep" />
+      <node id="coregatabs" label="coregatabs" />
+      <node id="91672746" label="sansaoss" />
+      <node id="arturwanderlei" label="arturwanderlei" />
+      <node id="1071408436531904512" label="tesoureiros" />
+      <node id="1381979913901719557" label="Rioshore" />
+      <node id="1403453988440363010" label="Finclass_br" />
+      <node id="tesoureiros" label="tesoureiros" />
+      <node id="fecrmartins" label="fecrmartins" />
+      <node id="L40v1l4h666" label="L40v1l4h666" />
+      <node id="paulomuchon" label="paulomuchon" />
+      <node id="1059186853276991488" label="TomBombadil1954" />
+      <node id="TomBombadil1954" label="TomBombadil1954" />
+      <node id="lucascmota" label="lucascmota" />
+      <node id="JaguatiricaTops" label="JaguatiricaTops" />
+      <node id="75679847" label="leofjardim" />
+      <node id="20507556" label="jkdantas" />
+      <node id="2670726740" label="LulaOficial" />
+      <node id="leofjardim" label="leofjardim" />
+      <node id="Oliveiraedmo10" label="Oliveiraedmo10" />
+      <node id="vagao_do" label="vagao_do" />
+      <node id="AlexandreSando6" label="AlexandreSando6" />
+      <node id="NOVAISROGERIO" label="NOVAISROGERIO" />
+      <node id="rafaelportillo" label="rafaelportillo" />
+      <node id="nunobianchi" label="nunobianchi" />
+      <node id="ImperatorHelve2" label="ImperatorHelve2" />
+      <node id="ffcnetofalcao" label="ffcnetofalcao" />
+      <node id="Eazywold" label="Eazywold" />
+      <node id="11170612" label="phsantos" />
+      <node id="phsantos" label="phsantos" />
+      <node id="YasashiFallen" label="YasashiFallen" />
+      <node id="WerickALP" label="WerickALP" />
+      <node id="65397962" label="rdisant" />
+      <node id="rdisant" label="rdisant" />
+      <node id="Alexandregot198" label="Alexandregot198" />
+      <node id="flowpdc" label="flowpdc" />
+      <node id="Athaikyuu2" label="Athaikyuu2" />
+      <node id="1943026760095776769" label="arielfhitz" />
+      <node id="hxkog" label="hxkog" />
+      <node id="1078000514217009153" label="SunsetCat3" />
+      <node id="1455410566718181378" label="bot2827273743" />
+      <node id="191729517" label="Cricamg" />
+      <node id="SunsetCat3" label="SunsetCat3" />
+      <node id="Fabio06007726" label="Fabio06007726" />
+      <node id="14595245" label="UOLEsporte" />
+      <node id="70799317" label="UOL" />
+      <node id="Real4iced" label="Real4iced" />
+      <node id="yobronu" label="yobronu" />
+      <node id="inconsincero" label="inconsincero" />
+      <node id="973022950327836672" label="MortariSchmidt" />
+      <node id="2880932962" label="o_antagonista" />
+      <node id="MortariSchmidt" label="MortariSchmidt" />
+      <node id="pacost1995" label="pacost1995" />
+      <node id="3124421764" label="ApenasArthurito" />
+      <node id="18237109" label="MichelArouca" />
+      <node id="apenasarthurito" label="apenasarthurito" />
+      <node id="nuneswar2000" label="nuneswar2000" />
+      <node id="Grimmlizz" label="Grimmlizz" />
+      <node id="danilopbrito" label="danilopbrito" />
+      <node id="1219103783529123840" label="CascaGrossaReal" />
+      <node id="89410723" label="Schwarza79" />
+      <node id="arkalaus1985" label="arkalaus1985" />
+      <node id="Weslleyrsantos" label="Weslleyrsantos" />
+      <node id="57137364" label="DeCaneli" />
+      <node id="DeCaneli" label="DeCaneli" />
+      <node id="Claudio98900534" label="Claudio98900534" />
+      <node id="845618518385201153" label="lesarmol" />
+      <node id="lesarmol" label="lesarmol" />
+      <node id="JB_FlaBRASIL" label="JB_FlaBRASIL" />
+      <node id="1205399570" label="davincdavi" />
+      <node id="davincdavi" label="davincdavi" />
+      <node id="CascaGrossaReal" label="CascaGrossaReal" />
+      <node id="1842071480504614913" label="brunnosarttori" />
+      <node id="1913011345" label="paulocruzphi" />
+      <node id="xanapopositox" label="xanapopositox" />
+      <node id="jpcastrosantos" label="jpcastrosantos" />
+      <node id="762402774260875265" label="GuilhermeBoulos" />
+      <node id="GuilhermeBoulos" label="GuilhermeBoulos" />
+      <node id="transliseda" label="transliseda" />
+      <node id="rodbatalha" label="rodbatalha" />
+      <node id="PauloSpitzbarth" label="PauloSpitzbarth" />
+      <node id="eusousamir" label="eusousamir" />
+      <node id="fernandosalvio" label="fernandosalvio" />
+      <node id="BHSS_FLA" label="BHSS_FLA" />
+      <node id="UnDreTheCreator" label="UnDreTheCreator" />
+      <node id="855976647559966720" label="davidsanttiago" />
+      <node id="davidsanttiago" label="davidsanttiago" />
+      <node id="gbsmont" label="gbsmont" />
+      <node id="MACRON157FDSS" label="MACRON157FDSS" />
+      <node id="mgzimmermann" label="mgzimmermann" />
+      <node id="2409783798" label="BruceBarbosa88" />
+      <node id="BruceBarbosa88" label="BruceBarbosa88" />
+      <node id="Juningdc" label="Juningdc" />
+      <node id="3318337402" label="moura_101" />
+      <node id="moura_101" label="moura_101" />
+      <node id="comeback_leia" label="comeback_leia" />
+      <node id="772175681253937158" label="Cellbinho_crey" />
+      <node id="356531623" label="yanjonas1" />
+      <node id="Cellbinho_crey" label="Cellbinho_crey" />
+      <node id="genoss0" label="genoss0" />
+      <node id="iamGuick" label="iamGuick" />
+      <node id="que_gio" label="que_gio" />
+      <node id="orafasolar" label="orafasolar" />
+      <node id="Kong1lol" label="Kong1lol" />
+      <node id="ToAcordado" label="ToAcordado" />
+      <node id="DelBoboXabo" label="DelBoboXabo" />
+      <node id="Joperueno" label="Joperueno" />
+      <node id="sergio_hoff" label="sergio_hoff" />
+      <node id="Die_Wotan" label="Die_Wotan" />
+      <node id="19608629" label="MauMeirelles" />
+      <node id="jedussauro" label="jedussauro" />
+      <node id="jnchuurikii" label="jnchuurikii" />
+      <node id="ar2lucky" label="ar2lucky" />
+      <node id="z1riguidum" label="z1riguidum" />
+      <node id="negomoura" label="negomoura" />
+      <node id="souzajkjkk" label="souzajkjkk" />
+      <node id="sccp_davizin" label="sccp_davizin" />
+      <node id="Stanley_Kojak" label="Stanley_Kojak" />
+      <node id="palsinpaws" label="palsinpaws" />
+      <node id="1417907597508759554" label="Rd00Thiag0" />
+      <node id="90956509" label="RomuloScott" />
+      <node id="Rd00Thiag0" label="Rd00Thiag0" />
+      <node id="QuebrandoOTabu" label="QuebrandoOTabu" />
+      <node id="ojedabtc" label="ojedabtc" />
+      <node id="ralexandredb" label="ralexandredb" />
+      <node id="51881474" label="rogerioskylab" />
+      <node id="exilado5" label="exilado5" />
+      <node id="MissRedslenny" label="MissRedslenny" />
+      <node id="CerebeloMutante" label="CerebeloMutante" />
+      <node id="OgedaLenner" label="OgedaLenner" />
+      <node id="1227615751214944258" label="Bolacherasccp" />
+      <node id="Bolacherasccp" label="Bolacherasccp" />
+      <node id="Odlani1" label="Odlani1" />
+      <node id="1381644658921603074" label="ojedabtc" />
+      <node id="CrystalTypewri1" label="CrystalTypewri1" />
+      <node id="andre_lemes" label="andre_lemes" />
+      <node id="1240441842598129665" label="DornelesVargas1" />
+      <node id="DornelesVargas1" label="DornelesVargas1" />
+      <node id="MrDarkness868" label="MrDarkness868" />
+      <node id="1268054325122777088" label="ander16bits" />
+      <node id="ander16bits" label="ander16bits" />
+      <node id="edmundosiqueira" label="edmundosiqueira" />
+      <node id="jpjotape_jp" label="jpjotape_jp" />
+      <node id="790707482515628033" label="realpfigueiredo" />
+      <node id="realpfigueiredo" label="realpfigueiredo" />
+      <node id="EricBar47086119" label="EricBar47086119" />
+      <node id="vcm_barros" label="vcm_barros" />
+      <node id="1042601099566436352" label="RenanSantosMBL" />
+      <node id="adamlns" label="adamlns" />
+      <node id="odeiozepolvinho" label="odeiozepolvinho" />
+      <node id="EuclidesMacedo" label="EuclidesMacedo" />
+      <node id="502166067" label="diegojn10" />
+      <node id="diegojn10" label="diegojn10" />
+      <node id="beastmelz" label="beastmelz" />
+      <node id="claudiocanuto" label="claudiocanuto" />
+      <node id="RodrigoBelmont9" label="RodrigoBelmont9" />
+      <node id="1029324439618506752" label="BillyAlves4" />
+      <node id="1413166934636498951" label="ClintonPontes" />
+      <node id="28562620" label="vitorsergio" />
+      <node id="BillyAlves4" label="BillyAlves4" />
+      <node id="ffcbibi__" label="ffcbibi__" />
+      <node id="mfurtado77" label="mfurtado77" />
+      <node id="vivirossetto" label="vivirossetto" />
+      <node id="117525043" label="borgesrenato88" />
+      <node id="borgesrenato88" label="borgesrenato88" />
+      <node id="ismaelbneto" label="ismaelbneto" />
+      <node id="ENZUH14" label="ENZUH14" />
+      <node id="DyrlanR" label="DyrlanR" />
+      <node id="176579340" label="igor9silva" />
+      <node id="igor9silva" label="igor9silva" />
+      <node id="eu_aleck" label="eu_aleck" />
+      <node id="omateusgms" label="omateusgms" />
+      <node id="15862782" label="brunasantini" />
+      <node id="brunasantini" label="brunasantini" />
+      <node id="JuniorWaldick" label="JuniorWaldick" />
+      <node id="seusergin" label="seusergin" />
+      <node id="nome_usado21" label="nome_usado21" />
+      <node id="962479476666925059" label="Menezez13" />
+      <node id="983079330950598656" label="aTrillion_Stars" />
+      <node id="Menezez13" label="Menezez13" />
+      <node id="jeanbettega" label="jeanbettega" />
+      <node id="MDMadara213" label="MDMadara213" />
+      <node id="imbipollyar" label="imbipollyar" />
+      <node id="irialrodrigues" label="irialrodrigues" />
+      <node id="Thiago_Paulini" label="Thiago_Paulini" />
+      <node id="hepradod" label="hepradod" />
+      <node id="1242275915624660992" label="cortomaltese975" />
+      <node id="cortomaltese975" label="cortomaltese975" />
+      <node id="edaicoolrs" label="edaicoolrs" />
+      <node id="nickpg369" label="nickpg369" />
+      <node id="lDarkBL" label="lDarkBL" />
+      <node id="jordan_tavares1" label="jordan_tavares1" />
+      <node id="andrecota69" label="andrecota69" />
+      <node id="26344099" label="octaviobuzz" />
+      <node id="octaviobuzz" label="octaviobuzz" />
+      <node id="ArthurPentagna" label="ArthurPentagna" />
+      <node id="HatsoTsubaya" label="HatsoTsubaya" />
+      <node id="a_paulovictor" label="a_paulovictor" />
+      <node id="GiseleDaSilvaR9" label="GiseleDaSilvaR9" />
+      <node id="jlsummer" label="jlsummer" />
+      <node id="desintoxicacao" label="desintoxicacao" />
+      <node id="aloirdasilva" label="aloirdasilva" />
+      <node id="1610710219201429516" label="novasarenas" />
+      <node id="64458973" label="delaurentiis_br" />
+      <node id="468686685" label="JuniorCoimbra77" />
+      <node id="GKlimkovski" label="GKlimkovski" />
+      <node id="93911739" label="brussel_ive" />
+      <node id="brussel_ive" label="brussel_ive" />
+      <node id="Pity542" label="Pity542" />
+      <node id="trs2542" label="trs2542" />
+      <node id="EdelsonLopes" label="EdelsonLopes" />
+      <node id="CoronelCannabis" label="CoronelCannabis" />
+      <node id="lucasnavess" label="lucasnavess" />
+      <node id="LukinhaC0" label="LukinhaC0" />
+      <node id="1001429817802330112" label="AthaydesRodrigo" />
+      <node id="953512504449265665" label="KellySant0s01" />
+      <node id="1410200058973278209" label="desbocadadobar" />
+      <node id="1480890271227420677" label="Doc66253412" />
+      <node id="AthaydesRodrigo" label="AthaydesRodrigo" />
+      <node id="camaradaL_B" label="camaradaL_B" />
+      <node id="612944813" label="dxwney" />
+      <node id="912834513977430017" label="Chusperito" />
+      <node id="888077436025524224" label="dimitrisanders_" />
+      <node id="dxwney" label="dxwney" />
+      <node id="gaiko_soto" label="gaiko_soto" />
+      <node id="TheRaySil" label="TheRaySil" />
+      <node id="858455647" label="Annegabriellerl" />
+      <node id="Annegabriellerl" label="Annegabriellerl" />
+      <node id="marcosantosbh" label="marcosantosbh" />
+      <node id="matheusbergmann" label="matheusbergmann" />
+      <node id="1431690378" label="FilipeKunrath" />
+      <node id="FilipeKunrath" label="FilipeKunrath" />
+      <node id="MillenaHorato" label="MillenaHorato" />
+      <node id="CR7carecaancap" label="CR7carecaancap" />
+      <node id="luciovieira0001" label="luciovieira0001" />
+      <node id="itatiaia" label="itatiaia" />
+      <node id="FlavioFilho85" label="FlavioFilho85" />
+      <node id="Big_ThugReal" label="Big_ThugReal" />
+      <node id="CristinaQuerne" label="CristinaQuerne" />
+      <node id="kamizynha" label="kamizynha" />
+      <node id="VinizinBFR" label="VinizinBFR" />
+      <node id="_Daniloferreir" label="_Daniloferreir" />
+      <node id="Sr98431264" label="Sr98431264" />
+      <node id="228023472" label="Casimiro" />
+      <node id="Casimiro" label="Casimiro" />
+      <node id="LostMatheusGT" label="LostMatheusGT" />
+      <node id="1123258543505850368" label="SensoCrtico1" />
+      <node id="SensoCrtico1" label="SensoCrtico1" />
+      <node id="brk_kohaku" label="brk_kohaku" />
+      <node id="ClaudioSilvaHP" label="ClaudioSilvaHP" />
+      <node id="pegarumeunome" label="pegarumeunome" />
+      <node id="37543514" label="ozeiasdsl" />
+      <node id="1103424726532349952" label="Maelawa2" />
+      <node id="1042570146399891457" label="DanielSurtado" />
+      <node id="ozeiasdsl" label="ozeiasdsl" />
+      <node id="vietnamflashes" label="vietnamflashes" />
+      <node id="Natty_Bessas" label="Natty_Bessas" />
+      <node id="JRFLAOR" label="JRFLAOR" />
+      <node id="andre_sabreu" label="andre_sabreu" />
+      <node id="3398886857" label="dudandias" />
+      <node id="dudandias" label="dudandias" />
+      <node id="PIncomodar" label="PIncomodar" />
+      <node id="ofelipeporto" label="ofelipeporto" />
+      <node id="Washingtonn_99" label="Washingtonn_99" />
+      <node id="Neryoficial2" label="Neryoficial2" />
+      <node id="Souza0210Carlin" label="Souza0210Carlin" />
+      <node id="JulioCGMend" label="JulioCGMend" />
+      <node id="724174826" label="cloud_magella" />
+      <node id="cloud_magella" label="cloud_magella" />
+      <node id="oivitao" label="oivitao" />
+      <node id="CarlosH17392414" label="CarlosH17392414" />
+      <node id="437132963" label="SimoneRosado" />
+      <node id="SimoneRosado" label="SimoneRosado" />
+      <node id="odo19651" label="odo19651" />
+      <node id="digidan_" label="digidan_" />
+      <node id="MelloZi" label="MelloZi" />
+      <node id="tabataamaralsp" label="tabataamaralsp" />
+      <node id="Alex27412607" label="Alex27412607" />
+      <node id="853359030" label="Lincolnnutri" />
+      <node id="Lincolnnutri" label="Lincolnnutri" />
+      <node id="sosvic" label="sosvic" />
+      <node id="esron" label="esron" />
+      <node id="milkycuco" label="milkycuco" />
+      <node id="nebels" label="nebels" />
+      <node id="VidaQue22321063" label="VidaQue22321063" />
+      <node id="SigaGazetaBR" label="SigaGazetaBR" />
+      <node id="maicon_malmal" label="maicon_malmal" />
+      <node id="xvinny_cwb" label="xvinny_cwb" />
+      <node id="AparecidodeAss3" label="AparecidodeAss3" />
+      <node id="brenoorios" label="brenoorios" />
+      <node id="Eduardo_AI1917" label="Eduardo_AI1917" />
+      <node id="DisfarceDoBilll" label="DisfarceDoBilll" />
+      <node id="TernesRafaella" label="TernesRafaella" />
+      <node id="PbpeTv" label="PbpeTv" />
+      <node id="guantanamero7" label="guantanamero7" />
+      <node id="xdecoaquele" label="xdecoaquele" />
+      <node id="rcruz80" label="rcruz80" />
+      <node id="mariosor" label="mariosor" />
+      <node id="DeAbd" label="DeAbd" />
+      <node id="midnightsun_xxx" label="midnightsun_xxx" />
+      <node id="orevesoguh" label="orevesoguh" />
+      <node id="889847254709936128" label="Juliac_braun" />
+      <node id="Juliac_braun" label="Juliac_braun" />
+      <node id="tau_lins" label="tau_lins" />
+      <node id="Jean50759610" label="Jean50759610" />
+      <node id="75264300" label="kimpaim" />
+      <node id="kimpaim" label="kimpaim" />
+      <node id="Michele27664804" label="Michele27664804" />
+      <node id="AnnGisel" label="AnnGisel" />
+      <node id="EliasDaniells" label="EliasDaniells" />
+      <node id="4106068103" label="arthurmoledoval" />
+      <node id="1052886290612572161" label="allandospanos" />
+      <node id="74756085" label="BolsonaroSP" />
+      <node id="arthurmoledoval" label="arthurmoledoval" />
+      <node id="virginiawicca" label="virginiawicca" />
+      <node id="liiamessi" label="liiamessi" />
+      <node id="RegoBiel" label="RegoBiel" />
+      <node id="1185844067135041536" label="aminmayef" />
+      <node id="aminmayef" label="aminmayef" />
+      <node id="LeonelRadde" label="LeonelRadde" />
+      <node id="_Foxtrot" label="_Foxtrot" />
+      <node id="142763841" label="claudioedantas" />
+      <node id="allandospanos" label="allandospanos" />
+      <node id="mozartprudente" label="mozartprudente" />
+      <node id="346248349" label="LucyLacerda75" />
+      <node id="LucyLacerda75" label="LucyLacerda75" />
+      <node id="httpjmtw" label="httpjmtw" />
+    </nodes>
+    <edges>
+      <edge source="samismuriell" target="1345206382312775680" id="0" weight="1.0" />
+      <edge source="samismuriell" target="896736181198741505" id="1" weight="1.0" />
+      <edge source="samismuriell" target="desmentindobozo" id="2" weight="1.0" />
+      <edge source="GorinoRipley" target="27699093" id="3" weight="1.0" />
+      <edge source="GorinoRipley" target="filipetrielli" id="4" weight="1.0" />
+      <edge source="zotFPS" target="1153473261583380480" id="5" weight="1.0" />
+      <edge source="zotFPS" target="becarr_" id="6" weight="1.0" />
+      <edge source="Antonytallo2" target="1272507913991585793" id="7" weight="1.0" />
+      <edge source="Antonytallo2" target="roberta_bastoss" id="8" weight="1.0" />
+      <edge source="Matheus71414121" target="1487018827917537285" id="9" weight="2.0" />
+      <edge source="Matheus71414121" target="292383655" id="10" weight="2.0" />
+      <edge source="Matheus71414121" target="895261812370939907" id="11" weight="2.0" />
+      <edge source="Matheus71414121" target="388920424" id="12" weight="2.0" />
+      <edge source="Matheus71414121" target="281551749" id="13" weight="2.0" />
+      <edge source="Matheus71414121" target="14740219" id="14" weight="2.0" />
+      <edge source="Matheus71414121" target="244333834" id="15" weight="2.0" />
+      <edge source="Matheus71414121" target="Aquiles_Argolo" id="16" weight="2.0" />
+      <edge source="impropriosrs" target="292383655" id="17" weight="2.0" />
+      <edge source="impropriosrs" target="iFood" id="18" weight="2.0" />
+      <edge source="_niconanico" target="jyzien" id="19" weight="1.0" />
+      <edge source="0Conservador4" target="242967720" id="20" weight="1.0" />
+      <edge source="RobinGo85" target="735153008238071809" id="21" weight="2.0" />
+      <edge source="RobinGo85" target="953378142198161409" id="22" weight="2.0" />
+      <edge source="RobinGo85" target="marlon_f9" id="23" weight="2.0" />
+      <edge source="deoliveira888" target="178169591" id="24" weight="1.0" />
+      <edge source="deoliveira888" target="242967720" id="25" weight="1.0" />
+      <edge source="deoliveira888" target="3060235071" id="26" weight="1.0" />
+      <edge source="deoliveira888" target="106175018" id="27" weight="1.0" />
+      <edge source="deoliveira888" target="leoportela_" id="28" weight="1.0" />
+      <edge source="ifuseek_matt" target="4063661553" id="29" weight="1.0" />
+      <edge source="ifuseek_matt" target="rogeravga" id="30" weight="1.0" />
+      <edge source="Gmc_31" target="162453393" id="31" weight="1.0" />
+      <edge source="Gmc_31" target="aguedescartoon" id="32" weight="1.0" />
+      <edge source="ricardoaccampos" target="25029808" id="33" weight="1.0" />
+      <edge source="ricardoaccampos" target="242967720" id="34" weight="1.0" />
+      <edge source="ricardoaccampos" target="1371197850672115714" id="35" weight="1.0" />
+      <edge source="ricardoaccampos" target="guilherme_amado" id="36" weight="1.0" />
+      <edge source="mdsouza25" target="36751573" id="37" weight="1.0" />
+      <edge source="mdsouza25" target="sensacionalista" id="38" weight="1.0" />
+      <edge source="Henriquefuzari" target="3060235071" id="39" weight="1.0" />
+      <edge source="Henriquefuzari" target="AdrillesRJorge" id="40" weight="1.0" />
+      <edge source="IolyVan" target="242967720" id="41" weight="2.0" />
+      <edge source="IolyVan" target="753607579717230593" id="42" weight="1.0" />
+      <edge source="IolyVan" target="1494658207" id="43" weight="1.0" />
+      <edge source="IolyVan" target="1001251931812220928" id="44" weight="1.0" />
+      <edge source="IolyVan" target="1188910076037345280" id="45" weight="1.0" />
+      <edge source="IolyVan" target="monark" id="46" weight="1.0" />
+      <edge source="eobraya21" target="3060235071" id="47" weight="1.0" />
+      <edge source="eobraya21" target="AdrillesRJorge" id="48" weight="1.0" />
+      <edge source="MorganaGibelli" target="53912612" id="49" weight="2.0" />
+      <edge source="MorganaGibelli" target="pedropjbrandao" id="50" weight="2.0" />
+      <edge source="leonardoibe" target="292383655" id="51" weight="2.0" />
+      <edge source="leonardoibe" target="iFood" id="52" weight="2.0" />
+      <edge source="irmaodostuart" target="109650161" id="53" weight="2.0" />
+      <edge source="irmaodostuart" target="1476982805691355144" id="54" weight="2.0" />
+      <edge source="irmaodostuart" target="61917230" id="55" weight="2.0" />
+      <edge source="irmaodostuart" target="770973413477408768" id="56" weight="2.0" />
+      <edge source="irmaodostuart" target="lsaddocki" id="57" weight="2.0" />
+      <edge source="silviamarques" target="14594813" id="58" weight="1.0" />
+      <edge source="silviamarques" target="folha" id="59" weight="1.0" />
+      <edge source="CampinasPedro" target="151635190" id="60" weight="3.0" />
+      <edge source="apavoneleite" target="10228272" id="61" weight="1.0" />
+      <edge source="arthurhpc94" target="896551027939450880" id="62" weight="1.0" />
+      <edge source="arthurhpc94" target="RPMatiussi" id="63" weight="1.0" />
+      <edge source="PomboRanzinza" target="1573284348555661314" id="64" weight="1.0" />
+      <edge source="PomboRanzinza" target="3060235071" id="65" weight="1.0" />
+      <edge source="PomboRanzinza" target="242967720" id="66" weight="1.0" />
+      <edge source="marcioayer" target="1076667797063766018" id="67" weight="1.0" />
+      <edge source="marcioayer" target="1495813780604952587" id="68" weight="1.0" />
+      <edge source="marcioayer" target="T3ddyHelp" id="69" weight="1.0" />
+      <edge source="pollplace1" target="605873913" id="70" weight="1.0" />
+      <edge source="pollplace1" target="3060235071" id="71" weight="1.0" />
+      <edge source="pollplace1" target="AdrianoSobral1" id="72" weight="1.0" />
+      <edge source="DeiaCardoso" target="259840707" id="73" weight="1.0" />
+      <edge source="allissonshrad" target="1438274040" id="74" weight="1.0" />
+      <edge source="allissonshrad" target="1666465027" id="75" weight="1.0" />
+      <edge source="allissonshrad" target="1188910076037345280" id="76" weight="1.0" />
+      <edge source="allissonshrad" target="evandrocff" id="77" weight="1.0" />
+      <edge source="barbudodaanne" target="2167308481" id="78" weight="1.0" />
+      <edge source="barbudodaanne" target="ShiroiRaito" id="79" weight="1.0" />
+      <edge source="RobertoAnaclet8" target="2779888580" id="80" weight="1.0" />
+      <edge source="RobertoAnaclet8" target="55740257" id="81" weight="1.0" />
+      <edge source="RobertoAnaclet8" target="1218293323066150918" id="82" weight="1.0" />
+      <edge source="RobertoAnaclet8" target="Flaviochlessa" id="83" weight="1.0" />
+      <edge source="marcelogf" target="1095834875716874245" id="84" weight="1.0" />
+      <edge source="oPessanh" target="1027659261562810368" id="85" weight="1.0" />
+      <edge source="oPessanh" target="1483283021080010754" id="86" weight="1.0" />
+      <edge source="oPessanh" target="292383655" id="87" weight="1.0" />
+      <edge source="oPessanh" target="895261812370939907" id="88" weight="1.0" />
+      <edge source="oPessanh" target="388920424" id="89" weight="1.0" />
+      <edge source="oPessanh" target="281551749" id="90" weight="1.0" />
+      <edge source="oPessanh" target="14740219" id="91" weight="1.0" />
+      <edge source="oPessanh" target="244333834" id="92" weight="1.0" />
+      <edge source="oPessanh" target="jantonho" id="93" weight="1.0" />
+      <edge source="xadinhorock" target="1451170611808641028" id="94" weight="1.0" />
+      <edge source="xadinhorock" target="Italo_Vita" id="95" weight="1.0" />
+      <edge source="dosquinhas" target="1231055333721812994" id="96" weight="1.0" />
+      <edge source="dosquinhas" target="1441881282070257664" id="97" weight="1.0" />
+      <edge source="dosquinhas" target="292383655" id="98" weight="1.0" />
+      <edge source="dosquinhas" target="895261812370939907" id="99" weight="1.0" />
+      <edge source="dosquinhas" target="14740219" id="100" weight="1.0" />
+      <edge source="dosquinhas" target="388920424" id="101" weight="1.0" />
+      <edge source="dosquinhas" target="Milla_Cross" id="102" weight="1.0" />
+      <edge source="andradeez8" target="782986516482121728" id="103" weight="1.0" />
+      <edge source="andradeez8" target="rafatbarradas" id="104" weight="1.0" />
+      <edge source="jacksonpercyorg" target="292383655" id="105" weight="1.0" />
+      <edge source="jacksonpercyorg" target="895261812370939907" id="106" weight="1.0" />
+      <edge source="jacksonpercyorg" target="388920424" id="107" weight="1.0" />
+      <edge source="jacksonpercyorg" target="281551749" id="108" weight="1.0" />
+      <edge source="jacksonpercyorg" target="14740219" id="109" weight="1.0" />
+      <edge source="jacksonpercyorg" target="244333834" id="110" weight="1.0" />
+      <edge source="jacksonpercyorg" target="50883209" id="111" weight="1.0" />
+      <edge source="sansaoss" target="217385840" id="112" weight="1.0" />
+      <edge source="sansaoss" target="56181633" id="113" weight="1.0" />
+      <edge source="sansaoss" target="745831886" id="114" weight="1.0" />
+      <edge source="sansaoss" target="Khriot" id="115" weight="1.0" />
+      <edge source="Khriot" target="91672746" id="116" weight="1.0" />
+      <edge source="Khriot" target="56181633" id="117" weight="1.0" />
+      <edge source="Khriot" target="745831886" id="118" weight="1.0" />
+      <edge source="Khriot" target="sansaoss" id="119" weight="1.0" />
+      <edge source="iFoodNewsBrasil" target="3331429624" id="120" weight="1.0" />
+      <edge source="iFoodNewsBrasil" target="Metropoles" id="121" weight="1.0" />
+      <edge source="g4briel_4lex" target="63879860" id="122" weight="2.0" />
+      <edge source="g4briel_4lex" target="221402775" id="123" weight="2.0" />
+      <edge source="g4briel_4lex" target="292383655" id="124" weight="2.0" />
+      <edge source="fernandohabert" target="25029808" id="125" weight="1.0" />
+      <edge source="fernandohabert" target="guilherme_amado" id="126" weight="1.0" />
+      <edge source="Fernand77087971" target="2704400711" id="127" weight="1.0" />
+      <edge source="Fernand77087971" target="292383655" id="128" weight="1.0" />
+      <edge source="Fernand77087971" target="LsLucianaps" id="129" weight="1.0" />
+      <edge source="LopesSktr" target="1420075097054924807" id="130" weight="1.0" />
+      <edge source="LopesSktr" target="yuriolisfc" id="131" weight="1.0" />
+      <edge source="lipemansotdah" target="69746799" id="132" weight="1.0" />
+      <edge source="lipemansotdah" target="visualglitch91" id="133" weight="1.0" />
+      <edge source="jamesnocruzeiro" target="171627928" id="134" weight="1.0" />
+      <edge source="jamesnocruzeiro" target="18297088" id="135" weight="1.0" />
+      <edge source="jamesnocruzeiro" target="lucasalexandr_" id="136" weight="1.0" />
+      <edge source="Lguilhermes1" target="106175018" id="137" weight="1.0" />
+      <edge source="Lguilhermes1" target="JovemPanNews" id="138" weight="1.0" />
+      <edge source="AldrinMazzei" target="156438783" id="139" weight="1.0" />
+      <edge source="AldrinMazzei" target="1283770957958656000" id="140" weight="1.0" />
+      <edge source="AldrinMazzei" target="34704778" id="141" weight="1.0" />
+      <edge source="AldrinMazzei" target="292383655" id="142" weight="1.0" />
+      <edge source="AldrinMazzei" target="186568600" id="143" weight="1.0" />
+      <edge source="AldrinMazzei" target="281551749" id="144" weight="1.0" />
+      <edge source="AldrinMazzei" target="819324620256018433" id="145" weight="1.0" />
+      <edge source="AldrinMazzei" target="4839088324" id="146" weight="1.0" />
+      <edge source="AldrinMazzei" target="elvisnsep" id="147" weight="1.0" />
+      <edge source="arturwanderlei" target="1071408436531904512" id="148" weight="1.0" />
+      <edge source="arturwanderlei" target="292383655" id="149" weight="1.0" />
+      <edge source="arturwanderlei" target="244333834" id="150" weight="1.0" />
+      <edge source="arturwanderlei" target="1381979913901719557" id="151" weight="1.0" />
+      <edge source="arturwanderlei" target="388920424" id="152" weight="1.0" />
+      <edge source="arturwanderlei" target="1403453988440363010" id="153" weight="1.0" />
+      <edge source="arturwanderlei" target="14740219" id="154" weight="1.0" />
+      <edge source="arturwanderlei" target="895261812370939907" id="155" weight="1.0" />
+      <edge source="arturwanderlei" target="281551749" id="156" weight="1.0" />
+      <edge source="arturwanderlei" target="tesoureiros" id="157" weight="1.0" />
+      <edge source="L40v1l4h666" target="292383655" id="158" weight="1.0" />
+      <edge source="L40v1l4h666" target="iFood" id="159" weight="1.0" />
+      <edge source="paulomuchon" target="1059186853276991488" id="160" weight="1.0" />
+      <edge source="paulomuchon" target="TomBombadil1954" id="161" weight="1.0" />
+      <edge source="JaguatiricaTops" target="75679847" id="162" weight="1.0" />
+      <edge source="JaguatiricaTops" target="20507556" id="163" weight="1.0" />
+      <edge source="JaguatiricaTops" target="292383655" id="164" weight="1.0" />
+      <edge source="JaguatiricaTops" target="244333834" id="165" weight="1.0" />
+      <edge source="JaguatiricaTops" target="388920424" id="166" weight="1.0" />
+      <edge source="JaguatiricaTops" target="895261812370939907" id="167" weight="1.0" />
+      <edge source="JaguatiricaTops" target="14740219" id="168" weight="1.0" />
+      <edge source="JaguatiricaTops" target="281551749" id="169" weight="1.0" />
+      <edge source="JaguatiricaTops" target="1403453988440363010" id="170" weight="1.0" />
+      <edge source="JaguatiricaTops" target="2670726740" id="171" weight="1.0" />
+      <edge source="JaguatiricaTops" target="leofjardim" id="172" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="292383655" id="173" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="895261812370939907" id="174" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="388920424" id="175" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="281551749" id="176" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="14740219" id="177" weight="1.0" />
+      <edge source="Oliveiraedmo10" target="244333834" id="178" weight="1.0" />
+      <edge source="ImperatorHelve2" target="292383655" id="179" weight="1.0" />
+      <edge source="ImperatorHelve2" target="895261812370939907" id="180" weight="1.0" />
+      <edge source="ImperatorHelve2" target="388920424" id="181" weight="1.0" />
+      <edge source="ImperatorHelve2" target="281551749" id="182" weight="1.0" />
+      <edge source="ImperatorHelve2" target="14740219" id="183" weight="1.0" />
+      <edge source="ImperatorHelve2" target="244333834" id="184" weight="1.0" />
+      <edge source="Eazywold" target="11170612" id="185" weight="1.0" />
+      <edge source="Eazywold" target="1188910076037345280" id="186" weight="1.0" />
+      <edge source="Eazywold" target="phsantos" id="187" weight="1.0" />
+      <edge source="WerickALP" target="65397962" id="188" weight="1.0" />
+      <edge source="WerickALP" target="rdisant" id="189" weight="1.0" />
+      <edge source="Alexandregot198" target="1188910076037345280" id="190" weight="1.0" />
+      <edge source="Alexandregot198" target="flowpdc" id="191" weight="1.0" />
+      <edge source="Athaikyuu2" target="1943026760095776769" id="192" weight="1.0" />
+      <edge source="hxkog" target="1078000514217009153" id="193" weight="1.0" />
+      <edge source="hxkog" target="1455410566718181378" id="194" weight="1.0" />
+      <edge source="hxkog" target="191729517" id="195" weight="1.0" />
+      <edge source="hxkog" target="292383655" id="196" weight="1.0" />
+      <edge source="hxkog" target="895261812370939907" id="197" weight="1.0" />
+      <edge source="hxkog" target="388920424" id="198" weight="1.0" />
+      <edge source="hxkog" target="281551749" id="199" weight="1.0" />
+      <edge source="hxkog" target="14740219" id="200" weight="1.0" />
+      <edge source="hxkog" target="244333834" id="201" weight="1.0" />
+      <edge source="hxkog" target="SunsetCat3" id="202" weight="1.0" />
+      <edge source="Fabio06007726" target="14595245" id="203" weight="1.0" />
+      <edge source="Fabio06007726" target="70799317" id="204" weight="1.0" />
+      <edge source="Real4iced" target="292383655" id="205" weight="1.0" />
+      <edge source="Real4iced" target="895261812370939907" id="206" weight="1.0" />
+      <edge source="Real4iced" target="388920424" id="207" weight="1.0" />
+      <edge source="Real4iced" target="281551749" id="208" weight="1.0" />
+      <edge source="Real4iced" target="14740219" id="209" weight="1.0" />
+      <edge source="Real4iced" target="244333834" id="210" weight="1.0" />
+      <edge source="Real4iced" target="yobronu" id="211" weight="1.0" />
+      <edge source="inconsincero" target="973022950327836672" id="212" weight="1.0" />
+      <edge source="inconsincero" target="2880932962" id="213" weight="1.0" />
+      <edge source="inconsincero" target="1494658207" id="214" weight="1.0" />
+      <edge source="inconsincero" target="MortariSchmidt" id="215" weight="1.0" />
+      <edge source="pacost1995" target="3124421764" id="216" weight="1.0" />
+      <edge source="pacost1995" target="18237109" id="217" weight="1.0" />
+      <edge source="pacost1995" target="apenasarthurito" id="218" weight="1.0" />
+      <edge source="nuneswar2000" target="1573284348555661314" id="219" weight="1.0" />
+      <edge source="nuneswar2000" target="3060235071" id="220" weight="1.0" />
+      <edge source="nuneswar2000" target="242967720" id="221" weight="1.0" />
+      <edge source="danilopbrito" target="1219103783529123840" id="222" weight="1.0" />
+      <edge source="danilopbrito" target="89410723" id="223" weight="1.0" />
+      <edge source="danilopbrito" target="1188910076037345280" id="224" weight="1.0" />
+      <edge source="danilopbrito" target="arkalaus1985" id="225" weight="1.0" />
+      <edge source="arkalaus1985" target="1219103783529123840" id="226" weight="1.0" />
+      <edge source="arkalaus1985" target="89410723" id="227" weight="1.0" />
+      <edge source="arkalaus1985" target="1188910076037345280" id="228" weight="2.0" />
+      <edge source="arkalaus1985" target="CascaGrossaReal" id="229" weight="1.0" />
+      <edge source="arkalaus1985" target="1842071480504614913" id="230" weight="1.0" />
+      <edge source="arkalaus1985" target="1371197850672115714" id="231" weight="1.0" />
+      <edge source="arkalaus1985" target="1913011345" id="232" weight="1.0" />
+      <edge source="Weslleyrsantos" target="57137364" id="233" weight="1.0" />
+      <edge source="Weslleyrsantos" target="DeCaneli" id="234" weight="1.0" />
+      <edge source="Claudio98900534" target="845618518385201153" id="235" weight="1.0" />
+      <edge source="Claudio98900534" target="242967720" id="236" weight="1.0" />
+      <edge source="Claudio98900534" target="1494658207" id="237" weight="1.0" />
+      <edge source="Claudio98900534" target="lesarmol" id="238" weight="1.0" />
+      <edge source="JB_FlaBRASIL" target="1205399570" id="239" weight="1.0" />
+      <edge source="JB_FlaBRASIL" target="davincdavi" id="240" weight="1.0" />
+      <edge source="jpcastrosantos" target="762402774260875265" id="241" weight="1.0" />
+      <edge source="jpcastrosantos" target="3060235071" id="242" weight="1.0" />
+      <edge source="jpcastrosantos" target="GuilhermeBoulos" id="243" weight="1.0" />
+      <edge source="PauloSpitzbarth" target="1001251931812220928" id="244" weight="1.0" />
+      <edge source="UnDreTheCreator" target="855976647559966720" id="245" weight="1.0" />
+      <edge source="UnDreTheCreator" target="242967720" id="246" weight="1.0" />
+      <edge source="UnDreTheCreator" target="davidsanttiago" id="247" weight="1.0" />
+      <edge source="mgzimmermann" target="2409783798" id="248" weight="1.0" />
+      <edge source="mgzimmermann" target="242967720" id="249" weight="1.0" />
+      <edge source="mgzimmermann" target="BruceBarbosa88" id="250" weight="1.0" />
+      <edge source="Juningdc" target="3318337402" id="251" weight="1.0" />
+      <edge source="Juningdc" target="moura_101" id="252" weight="1.0" />
+      <edge source="comeback_leia" target="772175681253937158" id="253" weight="1.0" />
+      <edge source="comeback_leia" target="356531623" id="254" weight="1.0" />
+      <edge source="comeback_leia" target="Cellbinho_crey" id="255" weight="1.0" />
+      <edge source="DelBoboXabo" target="Joperueno" id="256" weight="1.0" />
+      <edge source="Die_Wotan" target="1188910076037345280" id="257" weight="1.0" />
+      <edge source="Die_Wotan" target="1001251931812220928" id="258" weight="1.0" />
+      <edge source="Die_Wotan" target="1494658207" id="259" weight="1.0" />
+      <edge source="Die_Wotan" target="19608629" id="260" weight="1.0" />
+      <edge source="Die_Wotan" target="flowpdc" id="261" weight="1.0" />
+      <edge source="negomoura" target="242967720" id="262" weight="1.0" />
+      <edge source="negomoura" target="monark" id="263" weight="1.0" />
+      <edge source="Stanley_Kojak" target="242967720" id="264" weight="1.0" />
+      <edge source="palsinpaws" target="1417907597508759554" id="265" weight="1.0" />
+      <edge source="palsinpaws" target="90956509" id="266" weight="1.0" />
+      <edge source="palsinpaws" target="242967720" id="267" weight="1.0" />
+      <edge source="palsinpaws" target="Rd00Thiag0" id="268" weight="1.0" />
+      <edge source="QuebrandoOTabu" target="242967720" id="269" weight="1.0" />
+      <edge source="ralexandredb" target="51881474" id="270" weight="1.0" />
+      <edge source="exilado5" target="MissRedslenny" id="271" weight="1.0" />
+      <edge source="OgedaLenner" target="1227615751214944258" id="272" weight="1.0" />
+      <edge source="OgedaLenner" target="Bolacherasccp" id="273" weight="1.0" />
+      <edge source="Odlani1" target="1381644658921603074" id="274" weight="1.0" />
+      <edge source="Odlani1" target="ojedabtc" id="275" weight="1.0" />
+      <edge source="CrystalTypewri1" target="242967720" id="276" weight="1.0" />
+      <edge source="CrystalTypewri1" target="monark" id="277" weight="1.0" />
+      <edge source="andre_lemes" target="1240441842598129665" id="278" weight="1.0" />
+      <edge source="andre_lemes" target="DornelesVargas1" id="279" weight="1.0" />
+      <edge source="MrDarkness868" target="1268054325122777088" id="280" weight="1.0" />
+      <edge source="MrDarkness868" target="ander16bits" id="281" weight="1.0" />
+      <edge source="edmundosiqueira" target="3060235071" id="282" weight="1.0" />
+      <edge source="jpjotape_jp" target="790707482515628033" id="283" weight="1.0" />
+      <edge source="jpjotape_jp" target="realpfigueiredo" id="284" weight="1.0" />
+      <edge source="EricBar47086119" target="3060235071" id="285" weight="2.0" />
+      <edge source="EricBar47086119" target="AdrillesRJorge" id="286" weight="1.0" />
+      <edge source="vcm_barros" target="1042601099566436352" id="287" weight="1.0" />
+      <edge source="EuclidesMacedo" target="502166067" id="288" weight="1.0" />
+      <edge source="EuclidesMacedo" target="3060235071" id="289" weight="1.0" />
+      <edge source="EuclidesMacedo" target="242967720" id="290" weight="1.0" />
+      <edge source="EuclidesMacedo" target="diegojn10" id="291" weight="1.0" />
+      <edge source="RodrigoBelmont9" target="1029324439618506752" id="292" weight="1.0" />
+      <edge source="RodrigoBelmont9" target="1413166934636498951" id="293" weight="1.0" />
+      <edge source="RodrigoBelmont9" target="28562620" id="294" weight="1.0" />
+      <edge source="RodrigoBelmont9" target="BillyAlves4" id="295" weight="1.0" />
+      <edge source="mfurtado77" target="10228272" id="296" weight="1.0" />
+      <edge source="vivirossetto" target="117525043" id="297" weight="1.0" />
+      <edge source="vivirossetto" target="242967720" id="298" weight="2.0" />
+      <edge source="vivirossetto" target="borgesrenato88" id="299" weight="1.0" />
+      <edge source="DyrlanR" target="176579340" id="300" weight="1.0" />
+      <edge source="DyrlanR" target="igor9silva" id="301" weight="1.0" />
+      <edge source="omateusgms" target="15862782" id="302" weight="1.0" />
+      <edge source="omateusgms" target="brunasantini" id="303" weight="1.0" />
+      <edge source="nome_usado21" target="962479476666925059" id="304" weight="1.0" />
+      <edge source="nome_usado21" target="983079330950598656" id="305" weight="1.0" />
+      <edge source="nome_usado21" target="1218293323066150918" id="306" weight="1.0" />
+      <edge source="nome_usado21" target="1001251931812220928" id="307" weight="1.0" />
+      <edge source="nome_usado21" target="Menezez13" id="308" weight="1.0" />
+      <edge source="jeanbettega" target="3060235071" id="309" weight="1.0" />
+      <edge source="jeanbettega" target="242967720" id="310" weight="1.0" />
+      <edge source="jeanbettega" target="AdrillesRJorge" id="311" weight="1.0" />
+      <edge source="hepradod" target="1242275915624660992" id="312" weight="1.0" />
+      <edge source="hepradod" target="cortomaltese975" id="313" weight="1.0" />
+      <edge source="lDarkBL" target="jordan_tavares1" id="314" weight="1.0" />
+      <edge source="andrecota69" target="26344099" id="315" weight="1.0" />
+      <edge source="andrecota69" target="octaviobuzz" id="316" weight="1.0" />
+      <edge source="HatsoTsubaya" target="1381644658921603074" id="317" weight="1.0" />
+      <edge source="HatsoTsubaya" target="ojedabtc" id="318" weight="1.0" />
+      <edge source="a_paulovictor" target="1188910076037345280" id="319" weight="1.0" />
+      <edge source="a_paulovictor" target="242967720" id="320" weight="1.0" />
+      <edge source="a_paulovictor" target="flowpdc" id="321" weight="1.0" />
+      <edge source="GiseleDaSilvaR9" target="3060235071" id="322" weight="1.0" />
+      <edge source="GiseleDaSilvaR9" target="AdrillesRJorge" id="323" weight="1.0" />
+      <edge source="desintoxicacao" target="242967720" id="324" weight="1.0" />
+      <edge source="aloirdasilva" target="1610710219201429516" id="325" weight="1.0" />
+      <edge source="aloirdasilva" target="64458973" id="326" weight="1.0" />
+      <edge source="aloirdasilva" target="468686685" id="327" weight="1.0" />
+      <edge source="GKlimkovski" target="93911739" id="328" weight="1.0" />
+      <edge source="GKlimkovski" target="brussel_ive" id="329" weight="1.0" />
+      <edge source="trs2542" target="1188910076037345280" id="330" weight="1.0" />
+      <edge source="trs2542" target="flowpdc" id="331" weight="1.0" />
+      <edge source="LukinhaC0" target="1001429817802330112" id="332" weight="1.0" />
+      <edge source="LukinhaC0" target="953512504449265665" id="333" weight="1.0" />
+      <edge source="LukinhaC0" target="1410200058973278209" id="334" weight="1.0" />
+      <edge source="LukinhaC0" target="1218293323066150918" id="335" weight="1.0" />
+      <edge source="LukinhaC0" target="1480890271227420677" id="336" weight="1.0" />
+      <edge source="LukinhaC0" target="1001251931812220928" id="337" weight="1.0" />
+      <edge source="LukinhaC0" target="AthaydesRodrigo" id="338" weight="1.0" />
+      <edge source="camaradaL_B" target="612944813" id="339" weight="1.0" />
+      <edge source="camaradaL_B" target="912834513977430017" id="340" weight="1.0" />
+      <edge source="camaradaL_B" target="888077436025524224" id="341" weight="1.0" />
+      <edge source="camaradaL_B" target="dxwney" id="342" weight="1.0" />
+      <edge source="TheRaySil" target="858455647" id="343" weight="1.0" />
+      <edge source="TheRaySil" target="Annegabriellerl" id="344" weight="1.0" />
+      <edge source="marcosantosbh" target="242967720" id="345" weight="2.0" />
+      <edge source="marcosantosbh" target="monark" id="346" weight="1.0" />
+      <edge source="matheusbergmann" target="1431690378" id="347" weight="1.0" />
+      <edge source="matheusbergmann" target="FilipeKunrath" id="348" weight="1.0" />
+      <edge source="luciovieira0001" target="itatiaia" id="349" weight="1.0" />
+      <edge source="FlavioFilho85" target="242967720" id="350" weight="1.0" />
+      <edge source="FlavioFilho85" target="monark" id="351" weight="1.0" />
+      <edge source="CristinaQuerne" target="242967720" id="352" weight="1.0" />
+      <edge source="CristinaQuerne" target="monark" id="353" weight="1.0" />
+      <edge source="Sr98431264" target="228023472" id="354" weight="1.0" />
+      <edge source="Sr98431264" target="Casimiro" id="355" weight="1.0" />
+      <edge source="LostMatheusGT" target="1123258543505850368" id="356" weight="1.0" />
+      <edge source="LostMatheusGT" target="SensoCrtico1" id="357" weight="1.0" />
+      <edge source="ClaudioSilvaHP" target="242967720" id="358" weight="1.0" />
+      <edge source="ClaudioSilvaHP" target="monark" id="359" weight="1.0" />
+      <edge source="pegarumeunome" target="37543514" id="360" weight="1.0" />
+      <edge source="pegarumeunome" target="1103424726532349952" id="361" weight="1.0" />
+      <edge source="pegarumeunome" target="1042570146399891457" id="362" weight="1.0" />
+      <edge source="pegarumeunome" target="14594813" id="363" weight="1.0" />
+      <edge source="pegarumeunome" target="ozeiasdsl" id="364" weight="1.0" />
+      <edge source="Natty_Bessas" target="162453393" id="365" weight="1.0" />
+      <edge source="Natty_Bessas" target="aguedescartoon" id="366" weight="1.0" />
+      <edge source="JRFLAOR" target="242967720" id="367" weight="1.0" />
+      <edge source="JRFLAOR" target="monark" id="368" weight="1.0" />
+      <edge source="andre_sabreu" target="3398886857" id="369" weight="1.0" />
+      <edge source="andre_sabreu" target="dudandias" id="370" weight="1.0" />
+      <edge source="Washingtonn_99" target="3331429624" id="371" weight="1.0" />
+      <edge source="Washingtonn_99" target="Metropoles" id="372" weight="1.0" />
+      <edge source="JulioCGMend" target="724174826" id="373" weight="1.0" />
+      <edge source="JulioCGMend" target="1188910076037345280" id="374" weight="1.0" />
+      <edge source="JulioCGMend" target="cloud_magella" id="375" weight="1.0" />
+      <edge source="CarlosH17392414" target="437132963" id="376" weight="1.0" />
+      <edge source="CarlosH17392414" target="SimoneRosado" id="377" weight="1.0" />
+      <edge source="odo19651" target="790707482515628033" id="378" weight="1.0" />
+      <edge source="odo19651" target="242967720" id="379" weight="1.0" />
+      <edge source="odo19651" target="realpfigueiredo" id="380" weight="1.0" />
+      <edge source="MelloZi" target="1001251931812220928" id="381" weight="1.0" />
+      <edge source="MelloZi" target="tabataamaralsp" id="382" weight="1.0" />
+      <edge source="Alex27412607" target="853359030" id="383" weight="1.0" />
+      <edge source="Alex27412607" target="242967720" id="384" weight="1.0" />
+      <edge source="Alex27412607" target="Lincolnnutri" id="385" weight="1.0" />
+      <edge source="sosvic" target="242967720" id="386" weight="1.0" />
+      <edge source="sosvic" target="monark" id="387" weight="1.0" />
+      <edge source="esron" target="242967720" id="388" weight="1.0" />
+      <edge source="orevesoguh" target="889847254709936128" id="389" weight="1.0" />
+      <edge source="orevesoguh" target="Juliac_braun" id="390" weight="1.0" />
+      <edge source="Jean50759610" target="75264300" id="391" weight="1.0" />
+      <edge source="Jean50759610" target="kimpaim" id="392" weight="1.0" />
+      <edge source="Michele27664804" target="242967720" id="393" weight="1.0" />
+      <edge source="Michele27664804" target="monark" id="394" weight="1.0" />
+      <edge source="EliasDaniells" target="4106068103" id="395" weight="1.0" />
+      <edge source="EliasDaniells" target="1052886290612572161" id="396" weight="1.0" />
+      <edge source="EliasDaniells" target="74756085" id="397" weight="1.0" />
+      <edge source="EliasDaniells" target="arthurmoledoval" id="398" weight="1.0" />
+      <edge source="virginiawicca" target="1001251931812220928" id="399" weight="1.0" />
+      <edge source="virginiawicca" target="tabataamaralsp" id="400" weight="1.0" />
+      <edge source="RegoBiel" target="1185844067135041536" id="401" weight="1.0" />
+      <edge source="RegoBiel" target="aminmayef" id="402" weight="1.0" />
+      <edge source="LeonelRadde" target="3060235071" id="403" weight="1.0" />
+      <edge source="_Foxtrot" target="1052886290612572161" id="404" weight="1.0" />
+      <edge source="_Foxtrot" target="142763841" id="405" weight="1.0" />
+      <edge source="_Foxtrot" target="allandospanos" id="406" weight="1.0" />
+      <edge source="mozartprudente" target="346248349" id="407" weight="1.0" />
+      <edge source="mozartprudente" target="242967720" id="408" weight="1.0" />
+      <edge source="mozartprudente" target="LucyLacerda75" id="409" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

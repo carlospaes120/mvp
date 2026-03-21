@@ -1,0 +1,4339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-09">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="tweet_count" type="long" />
+      <attribute id="2" title="count_accusador" type="long" />
+      <attribute id="3" title="count_cetico" type="long" />
+      <attribute id="4" title="count_neutro" type="long" />
+      <attribute id="5" title="count_other" type="long" />
+      <attribute id="6" title="stances_present" type="string" />
+      <attribute id="7" title="dominant_stance" type="string" />
+      <attribute id="8" title="stance" type="string" />
+      <attribute id="9" title="is_mixed_stance" type="boolean" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="stance" type="string" />
+    </attributes>
+    <nodes>
+      <node id="@taigo71" label="@taigo71">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@BruninBhs" label="@BruninBhs" />
+      <node id="@IgorSilvaOO7" label="@IgorSilvaOO7" />
+      <node id="@iFood" label="@iFood" />
+      <node id="@PrimeVideoBR" label="@PrimeVideoBR" />
+      <node id="@Ragazzo" label="@Ragazzo" />
+      <node id="@pumabrasil" label="@pumabrasil" />
+      <node id="@amazonmusic" label="@amazonmusic" />
+      <node id="@wiseupbr" label="@wiseupbr" />
+      <node id="@ffbergami" label="@ffbergami">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Phelipe_MP" label="@Phelipe_MP" />
+      <node id="@Taih_Cruz" label="@Taih_Cruz" />
+      <node id="@bicmuller" label="@bicmuller" />
+      <node id="@monark" label="@monark" />
+      <node id="@eeuseiIaporra" label="@eeuseiIaporra" />
+      <node id="@interrogatus" label="@interrogatus">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@lispectorjo" label="@lispectorjo">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@205Fer" label="@205Fer">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Italo_Vita" label="@Italo_Vita" />
+      <node id="@Saatur_" label="@Saatur_">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@kythao" label="@kythao" />
+      <node id="@fenige" label="@fenige" />
+      <node id="@AmbBrasilia" label="@AmbBrasilia" />
+      <node id="@KimKataguiri" label="@KimKataguiri" />
+      <node id="@flowpdc" label="@flowpdc" />
+      <node id="@MBLivre" label="@MBLivre" />
+      <node id="@Finclass_br" label="@Finclass_br" />
+      <node id="@apparecido_caa" label="@apparecido_caa">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@GabrielaPrioli" label="@GabrielaPrioli" />
+      <node id="@MPF_PGR" label="@MPF_PGR" />
+      <node id="@zibellini30" label="@zibellini30">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@eduardo_sete" label="@eduardo_sete">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@tensoativa" label="@tensoativa" />
+      <node id="@PrimeVideo" label="@PrimeVideo" />
+      <node id="@leandronunescm" label="@leandronunescm">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@viegastt" label="@viegastt" />
+      <node id="@caxistatoxic" label="@caxistatoxic">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@1981tales" label="@1981tales" />
+      <node id="@Leand80" label="@Leand80">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@jpdoficial1" label="@jpdoficial1" />
+      <node id="@slpng_giants_pt" label="@slpng_giants_pt" />
+      <node id="@Insiderstore" label="@Insiderstore" />
+      <node id="@FatalModel" label="@FatalModel" />
+      <node id="@viniciu70515529" label="@viniciu70515529">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@asheilacarvalho" label="@asheilacarvalho" />
+      <node id="@AlbreMatheus" label="@AlbreMatheus">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@Cricamg" label="@Cricamg" />
+      <node id="@KAmpessan" label="@KAmpessan">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Cassio_Meira" label="@Cassio_Meira" />
+      <node id="@luizribeirojr" label="@luizribeirojr">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@Monark" label="@Monark" />
+      <node id="@AlitaNeko" label="@AlitaNeko">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@kenfujioka" label="@kenfujioka" />
+      <node id="@MDLZ_BR" label="@MDLZ_BR" />
+      <node id="@MomolliMatheus" label="@MomolliMatheus">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@maikopalhares" label="@maikopalhares" />
+      <node id="@phnx182" label="@phnx182">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@mcreis1970" label="@mcreis1970">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@SpotifyBrasil" label="@SpotifyBrasil" />
+      <node id="@elias_olivercwb" label="@elias_olivercwb">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@jeffdesb" label="@jeffdesb">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Jujucactos" label="@Jujucactos" />
+      <node id="@brunnosarttori" label="@brunnosarttori" />
+      <node id="@MastercardBR" label="@MastercardBR" />
+      <node id="@jujucactos" label="@jujucactos" />
+      <node id="@bsb_joaosilva" label="@bsb_joaosilva">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@meunomeehefziba" label="@meunomeehefziba" />
+      <node id="@PelaggiPedro" label="@PelaggiPedro">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Mathsto19" label="@Mathsto19">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@crfjoca" label="@crfjoca" />
+      <node id="@Ferbszs" label="@Ferbszs">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@jacksinsaneside" label="@jacksinsaneside">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@PUMA" label="@PUMA" />
+      <node id="@RiandSL" label="@RiandSL" />
+      <node id="@Leandro_real_82" label="@Leandro_real_82">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@flabstinencia" label="@flabstinencia" />
+      <node id="@JuniorCoimbra77" label="@JuniorCoimbra77" />
+      <node id="@giovanaquaglio" label="@giovanaquaglio">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@leeonasc_" label="@leeonasc_" />
+      <node id="@vita_teodoro" label="@vita_teodoro">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@BrunoEnglerDM" label="@BrunoEnglerDM" />
+      <node id="@lsentoes1" label="@lsentoes1" />
+      <node id="@Caramel15448069" label="@Caramel15448069">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@renato_rovai" label="@renato_rovai" />
+      <node id="@scighelfi" label="@scighelfi">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@AndradeAmanda20" label="@AndradeAmanda20" />
+      <node id="@RappiBrasil" label="@RappiBrasil" />
+      <node id="@sara__alinee" label="@sara__alinee">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@gahhbressan" label="@gahhbressan" />
+      <node id="@Patriciabe3003" label="@Patriciabe3003" />
+      <node id="@NaoInviabilize" label="@NaoInviabilize" />
+      <node id="@KarkarahTrap" label="@KarkarahTrap">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@Aquiles_Argolo" label="@Aquiles_Argolo" />
+      <node id="@Neytamsanttos" label="@Neytamsanttos">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@naujx_T" label="@naujx_T" />
+      <node id="@machadvkk" label="@machadvkk">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@i_belca" label="@i_belca" />
+      <node id="@lauracsouza1" label="@lauracsouza1">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Gustavramski_" label="@Gustavramski_" />
+      <node id="@lucascbahia" label="@lucascbahia">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@utopiajara" label="@utopiajara" />
+      <node id="@RubensAugustoN1" label="@RubensAugustoN1">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@DanielDonda" label="@DanielDonda" />
+      <node id="@nanamedac" label="@nanamedac">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@AdrillesRJorge" label="@AdrillesRJorge" />
+      <node id="@IakoSabat" label="@IakoSabat">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@ENZUH14" label="@ENZUH14" />
+      <node id="@Vithaliy" label="@Vithaliy">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@10thominho" label="@10thominho" />
+      <node id="@Solw4y_Firth" label="@Solw4y_Firth">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@Pingu_Carvalho" label="@Pingu_Carvalho">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@nerdiariobr" label="@nerdiariobr" />
+      <node id="@brutafl0r" label="@brutafl0r">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@tupipamotre" label="@tupipamotre" />
+      <node id="@galodeluta" label="@galodeluta" />
+      <node id="@aschneider70" label="@aschneider70">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@tabataamaralsp" label="@tabataamaralsp" />
+      <node id="@EduardoBisotto" label="@EduardoBisotto" />
+      <node id="@LORD_OZN" label="@LORD_OZN">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@arthurmoledoval" label="@arthurmoledoval" />
+      <node id="@xodrom" label="@xodrom">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@guilhermemouca" label="@guilhermemouca" />
+      <node id="@moucalune" label="@moucalune" />
+      <node id="@luizyuka" label="@luizyuka">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@robinho_ss" label="@robinho_ss" />
+      <node id="@GlauPes" label="@GlauPes" />
+      <node id="@LucianoHuck" label="@LucianoHuck" />
+      <node id="@gusdiaxx" label="@gusdiaxx">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Gustavoclm" label="@Gustavoclm" />
+      <node id="@fxckyouvictor" label="@fxckyouvictor" />
+      <node id="@R0naIdo_" label="@R0naIdo_">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@nitta_c" label="@nitta_c" />
+      <node id="@VemAcopalipse" label="@VemAcopalipse">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@elpardalz" label="@elpardalz" />
+      <node id="@mvbill" label="@mvbill" />
+      <node id="@rodrigopinhovg" label="@rodrigopinhovg">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Rd00Thiag0" label="@Rd00Thiag0" />
+      <node id="@RomuloScott" label="@RomuloScott" />
+      <node id="@gurellifio" label="@gurellifio">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@luizfsantiago" label="@luizfsantiago" />
+      <node id="@am5coach" label="@am5coach">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@g1" label="@g1" />
+      <node id="@gadonewsbr" label="@gadonewsbr" />
+      <node id="@euodeiobolsona1" label="@euodeiobolsona1">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@antoniotabet" label="@antoniotabet" />
+      <node id="@jotadeju_" label="@jotadeju_">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@mendlowicz" label="@mendlowicz" />
+      <node id="@chameiosamu" label="@chameiosamu">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@viniragazzi" label="@viniragazzi">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@izzynobre" label="@izzynobre" />
+      <node id="@felipe84cds_" label="@felipe84cds_" />
+      <node id="@LioesLucas" label="@LioesLucas">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@direitasiqueira" label="@direitasiqueira" />
+      <node id="@Mrcio76514701" label="@Mrcio76514701">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@ReinaldoLeandr8" label="@ReinaldoLeandr8">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@nicodemo_O" label="@nicodemo_O">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@gessicakayane" label="@gessicakayane" />
+      <node id="@FelipeEmanuelsS" label="@FelipeEmanuelsS">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@bucetaenorme" label="@bucetaenorme" />
+      <node id="@mattayahuMATEUS" label="@mattayahuMATEUS" />
+      <node id="@enzcoelho" label="@enzcoelho">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@pingucopinga" label="@pingucopinga" />
+      <node id="@palmeristas" label="@palmeristas">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@MariVitali1" label="@MariVitali1">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@AncapAlviverde" label="@AncapAlviverde">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@ojedabtc" label="@ojedabtc" />
+      <node id="@rodrigo_draf" label="@rodrigo_draf">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@Calango" label="@Calango" />
+      <node id="@igor_3k" label="@igor_3k" />
+      <node id="@giam_germiniani" label="@giam_germiniani">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@jairbolsonaro" label="@jairbolsonaro" />
+      <node id="@JuninhoCruzG3" label="@JuninhoCruzG3">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@avioesemusicas" label="@avioesemusicas" />
+      <node id="@0mniBoy" label="@0mniBoy">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@l_eonne" label="@l_eonne">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@NataRomualdo" label="@NataRomualdo">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Flow" label="@Flow" />
+      <node id="@nostalgialofi" label="@nostalgialofi">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@buctinhasuja" label="@buctinhasuja" />
+      <node id="@readingwithfoxy" label="@readingwithfoxy">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@JackItouSenpai" label="@JackItouSenpai" />
+      <node id="@felipegoldenb" label="@felipegoldenb" />
+      <node id="@Wylkbergs" label="@Wylkbergs">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@AllanAq99542393" label="@AllanAq99542393">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@mandspinheiro" label="@mandspinheiro">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@thaimartelozzo" label="@thaimartelozzo" />
+      <node id="@reiruf" label="@reiruf">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@viniciuscfp82" label="@viniciuscfp82" />
+      <node id="@ArthurMartinsM8" label="@ArthurMartinsM8">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@marvio" label="@marvio" />
+      <node id="@JoelPinheiro85" label="@JoelPinheiro85" />
+      <node id="@GuilhermeFSouz5" label="@GuilhermeFSouz5">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Diogoqs18" label="@Diogoqs18" />
+      <node id="@WelingtonBorges" label="@WelingtonBorges">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@coyoteancap" label="@coyoteancap" />
+      <node id="@renanwhitaker" label="@renanwhitaker" />
+      <node id="@AncapAprendiz" label="@AncapAprendiz">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@tobigode" label="@tobigode">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@CordoesRJ" label="@CordoesRJ" />
+      <node id="@Priscil29039467" label="@Priscil29039467">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@TecoMendesNutri" label="@TecoMendesNutri">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="@_marcelaum" label="@_marcelaum">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@maxrosasouza" label="@maxrosasouza" />
+      <node id="@filipelaraujo" label="@filipelaraujo" />
+      <node id="@Lucas_Vaz_" label="@Lucas_Vaz_">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@Alexand82888665" label="@Alexand82888665">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@DamaresAlves" label="@DamaresAlves" />
+      <node id="@wh0fckingcares" label="@wh0fckingcares">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@bequebomdebola" label="@bequebomdebola" />
+      <node id="@terciobrilhante" label="@terciobrilhante" />
+      <node id="@APSJ1964" label="@APSJ1964">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@pauloteixeira13" label="@pauloteixeira13" />
+      <node id="@RenatoAntonini" label="@RenatoAntonini" />
+      <node id="@Tonyalmeida3878" label="@Tonyalmeida3878">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@ThiagoResiste" label="@ThiagoResiste" />
+      <node id="@brussel_ive" label="@brussel_ive" />
+      <node id="@diImabr" label="@diImabr" />
+      <node id="@Jandson52138010" label="@Jandson52138010">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@taoquei1" label="@taoquei1" />
+      <node id="@raikasevero" label="@raikasevero">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@demori" label="@demori" />
+      <node id="@TimeLord33" label="@TimeLord33">
+        <attvalues>
+          <attvalue for="0" value="acusador" />
+        </attvalues>
+      </node>
+      <node id="@viizedek" label="@viizedek" />
+      <node id="@bruholiveira3d" label="@bruholiveira3d" />
+    </nodes>
+    <edges>
+      <edge source="@taigo71" target="@BruninBhs" id="0" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@IgorSilvaOO7" id="1" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@iFood" id="2" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@PrimeVideoBR" id="3" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@Ragazzo" id="4" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@pumabrasil" id="5" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@amazonmusic" id="6" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@taigo71" target="@wiseupbr" id="7" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ffbergami" target="@Phelipe_MP" id="8" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ffbergami" target="@Taih_Cruz" id="9" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ffbergami" target="@bicmuller" id="10" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ffbergami" target="@monark" id="11" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ffbergami" target="@eeuseiIaporra" id="12" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@iFood" id="13" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@PrimeVideoBR" id="14" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@Ragazzo" id="15" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@pumabrasil" id="16" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@amazonmusic" id="17" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@interrogatus" target="@wiseupbr" id="18" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lispectorjo" target="@iFood" id="19" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lispectorjo" target="@PrimeVideoBR" id="20" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lispectorjo" target="@monark" id="21" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@205Fer" target="@Italo_Vita" id="22" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@kythao" id="23" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@fenige" id="24" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@AmbBrasilia" id="25" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@monark" id="26" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@KimKataguiri" id="27" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@flowpdc" id="28" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@MBLivre" id="29" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@iFood" id="30" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@wiseupbr" id="31" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@Ragazzo" id="32" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@PrimeVideoBR" id="33" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@amazonmusic" id="34" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@pumabrasil" id="35" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Saatur_" target="@Finclass_br" id="36" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@apparecido_caa" target="@GabrielaPrioli" id="37" weight="3.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@apparecido_caa" target="@monark" id="38" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@apparecido_caa" target="@MPF_PGR" id="39" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@zibellini30" target="@iFood" id="40" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@zibellini30" target="@pumabrasil" id="41" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@eduardo_sete" target="@tensoativa" id="42" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@eduardo_sete" target="@PrimeVideo" id="43" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@eduardo_sete" target="@PrimeVideoBR" id="44" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@eduardo_sete" target="@iFood" id="45" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@leandronunescm" target="@viegastt" id="46" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@leandronunescm" target="@flowpdc" id="47" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@caxistatoxic" target="@1981tales" id="48" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@jpdoficial1" id="49" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@slpng_giants_pt" id="50" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@monark" id="51" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@iFood" id="52" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@Insiderstore" id="53" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@Ragazzo" id="54" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@PrimeVideoBR" id="55" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@amazonmusic" id="56" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@pumabrasil" id="57" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@FatalModel" id="58" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leand80" target="@Finclass_br" id="59" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@viniciu70515529" target="@asheilacarvalho" id="60" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@Cricamg" id="61" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@iFood" id="62" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@PrimeVideoBR" id="63" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@Ragazzo" id="64" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@pumabrasil" id="65" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@amazonmusic" id="66" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlbreMatheus" target="@wiseupbr" id="67" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KAmpessan" target="@Cassio_Meira" id="68" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KAmpessan" target="@PrimeVideoBR" id="69" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@luizribeirojr" target="@Monark" id="70" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@luizribeirojr" target="@flowpdc" id="71" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@kenfujioka" id="72" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@iFood" id="73" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@MDLZ_BR" id="74" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@wiseupbr" id="75" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@PrimeVideoBR" id="76" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@Ragazzo" id="77" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AlitaNeko" target="@pumabrasil" id="78" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@MomolliMatheus" target="@maikopalhares" id="79" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@MomolliMatheus" target="@monark" id="80" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@kenfujioka" id="81" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@iFood" id="82" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@MDLZ_BR" id="83" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@wiseupbr" id="84" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@PrimeVideoBR" id="85" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@Ragazzo" id="86" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@phnx182" target="@pumabrasil" id="87" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@jpdoficial1" id="88" weight="4.0">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@slpng_giants_pt" id="89" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@monark" id="90" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@iFood" id="91" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@Insiderstore" id="92" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@Ragazzo" id="93" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@PrimeVideoBR" id="94" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@amazonmusic" id="95" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@pumabrasil" id="96" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@FatalModel" id="97" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@Finclass_br" id="98" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mcreis1970" target="@SpotifyBrasil" id="99" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@elias_olivercwb" target="@monark" id="100" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@Jujucactos" id="101" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@pumabrasil" id="102" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@brunnosarttori" id="103" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@iFood" id="104" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@PrimeVideoBR" id="105" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@Ragazzo" id="106" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@MastercardBR" id="107" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@wiseupbr" id="108" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@Finclass_br" id="109" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jeffdesb" target="@jujucactos" id="110" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@bsb_joaosilva" target="@meunomeehefziba" id="111" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@bsb_joaosilva" target="@iFood" id="112" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@iFood" id="113" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@PrimeVideoBR" id="114" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@Ragazzo" id="115" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@pumabrasil" id="116" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@amazonmusic" id="117" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@PelaggiPedro" target="@wiseupbr" id="118" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Mathsto19" target="@crfjoca" id="119" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@jacksinsaneside" id="120" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@iFood" id="121" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador,neutro" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@wiseupbr" id="122" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador,neutro" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@Ragazzo" id="123" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador,neutro" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@PrimeVideoBR" id="124" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador,neutro" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@amazonmusic" id="125" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador,neutro" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@PUMA" id="126" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@Finclass_br" id="127" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Ferbszs" target="@pumabrasil" id="128" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@RiandSL" id="129" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@iFood" id="130" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@wiseupbr" id="131" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@Ragazzo" id="132" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@PrimeVideoBR" id="133" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@amazonmusic" id="134" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@PUMA" id="135" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@Finclass_br" id="136" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jacksinsaneside" target="@Ferbszs" id="137" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leandro_real_82" target="@flabstinencia" id="138" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Leandro_real_82" target="@JuniorCoimbra77" id="139" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@giovanaquaglio" target="@leeonasc_" id="140" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@vita_teodoro" target="@monark" id="141" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@vita_teodoro" target="@BrunoEnglerDM" id="142" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@vita_teodoro" target="@lsentoes1" id="143" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@vita_teodoro" target="@iFood" id="144" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Caramel15448069" target="@renato_rovai" id="145" weight="6.0">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@scighelfi" target="@AndradeAmanda20" id="146" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@scighelfi" target="@iFood" id="147" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@scighelfi" target="@RappiBrasil" id="148" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@gahhbressan" id="149" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@Patriciabe3003" id="150" weight="3.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@NaoInviabilize" id="151" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@iFood" id="152" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@wiseupbr" id="153" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@Ragazzo" id="154" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@PrimeVideoBR" id="155" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@amazonmusic" id="156" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@pumabrasil" id="157" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@sara__alinee" target="@Finclass_br" id="158" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@Aquiles_Argolo" id="159" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@iFood" id="160" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@PrimeVideoBR" id="161" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@Ragazzo" id="162" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@pumabrasil" id="163" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@amazonmusic" id="164" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@KarkarahTrap" target="@wiseupbr" id="165" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Neytamsanttos" target="@naujx_T" id="166" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@i_belca" id="167" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@pumabrasil" id="168" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@iFood" id="169" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@PrimeVideoBR" id="170" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@Ragazzo" id="171" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@amazonmusic" id="172" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@machadvkk" target="@wiseupbr" id="173" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lauracsouza1" target="@iFood" id="174" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lauracsouza1" target="@Gustavramski_" id="175" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lucascbahia" target="@utopiajara" id="176" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@lucascbahia" target="@KimKataguiri" id="177" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@RubensAugustoN1" target="@DanielDonda" id="178" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@RubensAugustoN1" target="@monark" id="179" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@nanamedac" target="@AdrillesRJorge" id="180" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@nanamedac" target="@monark" id="181" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@IakoSabat" target="@ENZUH14" id="182" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Vithaliy" target="@10thominho" id="183" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Solw4y_Firth" target="@monark" id="184" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Pingu_Carvalho" target="@nerdiariobr" id="185" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@brutafl0r" target="@tupipamotre" id="186" weight="4.0">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@brutafl0r" target="@galodeluta" id="187" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@aschneider70" target="@MBLivre" id="188" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@aschneider70" target="@tabataamaralsp" id="189" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@aschneider70" target="@EduardoBisotto" id="190" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@LORD_OZN" target="@arthurmoledoval" id="191" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@LORD_OZN" target="@monark" id="192" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@xodrom" target="@guilhermemouca" id="193" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@xodrom" target="@moucalune" id="194" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@luizyuka" target="@robinho_ss" id="195" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@luizyuka" target="@GlauPes" id="196" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@luizyuka" target="@LucianoHuck" id="197" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@gusdiaxx" target="@Gustavoclm" id="198" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@gusdiaxx" target="@fxckyouvictor" id="199" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@R0naIdo_" target="@nitta_c" id="200" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@R0naIdo_" target="@flowpdc" id="201" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@VemAcopalipse" target="@elpardalz" id="202" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@VemAcopalipse" target="@mvbill" id="203" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@VemAcopalipse" target="@monark" id="204" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@VemAcopalipse" target="@flowpdc" id="205" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@rodrigopinhovg" target="@Rd00Thiag0" id="206" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@rodrigopinhovg" target="@RomuloScott" id="207" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@rodrigopinhovg" target="@monark" id="208" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@gurellifio" target="@luizfsantiago" id="209" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@am5coach" target="@arthurmoledoval" id="210" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@am5coach" target="@g1" id="211" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@am5coach" target="@monark" id="212" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@am5coach" target="@flowpdc" id="213" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@am5coach" target="@gadonewsbr" id="214" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@euodeiobolsona1" target="@antoniotabet" id="215" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@jotadeju_" target="@mendlowicz" id="216" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@chameiosamu" target="@maikopalhares" id="217" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@chameiosamu" target="@monark" id="218" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@viniragazzi" target="@izzynobre" id="219" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@viniragazzi" target="@felipe84cds_" id="220" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@LioesLucas" target="@direitasiqueira" id="221" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Mrcio76514701" target="@monark" id="222" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ReinaldoLeandr8" target="@monark" id="223" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@nicodemo_O" target="@gessicakayane" id="224" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@FelipeEmanuelsS" target="@bucetaenorme" id="225" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@FelipeEmanuelsS" target="@mattayahuMATEUS" id="226" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@enzcoelho" target="@pingucopinga" id="227" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@palmeristas" target="@monark" id="228" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@MariVitali1" target="@monark" id="229" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AncapAlviverde" target="@ojedabtc" id="230" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@rodrigo_draf" target="@Calango" id="231" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@rodrigo_draf" target="@igor_3k" id="232" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@giam_germiniani" target="@jairbolsonaro" id="233" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@giam_germiniani" target="@monark" id="234" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@JuninhoCruzG3" target="@avioesemusicas" id="235" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@0mniBoy" target="@monark" id="236" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@l_eonne" target="@monark" id="237" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@NataRomualdo" target="@Flow" id="238" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@nostalgialofi" target="@buctinhasuja" id="239" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@nostalgialofi" target="@igor_3k" id="240" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@readingwithfoxy" target="@JackItouSenpai" id="241" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@readingwithfoxy" target="@felipegoldenb" id="242" weight="3.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="acusador,defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@readingwithfoxy" target="@monark" id="243" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="acusador,defensor" />
+          <attvalue for="7" value="mixed" />
+          <attvalue for="8" value="mixed" />
+          <attvalue for="9" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="@Wylkbergs" target="@monark" id="244" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Wylkbergs" target="@KimKataguiri" id="245" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Wylkbergs" target="@tabataamaralsp" id="246" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AllanAq99542393" target="@monark" id="247" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@mandspinheiro" target="@thaimartelozzo" id="248" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@reiruf" target="@viniciuscfp82" id="249" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@reiruf" target="@monark" id="250" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ArthurMartinsM8" target="@marvio" id="251" weight="3.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@ArthurMartinsM8" target="@JoelPinheiro85" id="252" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@GuilhermeFSouz5" target="@Diogoqs18" id="253" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@WelingtonBorges" target="@coyoteancap" id="254" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@WelingtonBorges" target="@renanwhitaker" id="255" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@WelingtonBorges" target="@arthurmoledoval" id="256" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@WelingtonBorges" target="@monark" id="257" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AncapAprendiz" target="@bicmuller" id="258" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@AncapAprendiz" target="@monark" id="259" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@tobigode" target="@CordoesRJ" id="260" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Priscil29039467" target="@monark" id="261" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@TecoMendesNutri" target="@antoniotabet" id="262" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@TecoMendesNutri" target="@AdrillesRJorge" id="263" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@TecoMendesNutri" target="@monark" id="264" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="neutro" />
+          <attvalue for="7" value="neutro" />
+          <attvalue for="8" value="neutro" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@_marcelaum" target="@maxrosasouza" id="265" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@_marcelaum" target="@monark" id="266" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@_marcelaum" target="@filipelaraujo" id="267" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas_Vaz_" target="@arthurmoledoval" id="268" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas_Vaz_" target="@monark" id="269" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Alexand82888665" target="@DamaresAlves" id="270" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@wh0fckingcares" target="@bequebomdebola" id="271" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@wh0fckingcares" target="@terciobrilhante" id="272" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@APSJ1964" target="@pauloteixeira13" id="273" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@APSJ1964" target="@RenatoAntonini" id="274" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@APSJ1964" target="@monark" id="275" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@APSJ1964" target="@KimKataguiri" id="276" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Tonyalmeida3878" target="@ThiagoResiste" id="277" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Tonyalmeida3878" target="@brussel_ive" id="278" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Tonyalmeida3878" target="@diImabr" id="279" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Jandson52138010" target="@taoquei1" id="280" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@Jandson52138010" target="@monark" id="281" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@raikasevero" target="@demori" id="282" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@TimeLord33" target="@viizedek" id="283" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="@TimeLord33" target="@bruholiveira3d" id="284" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+          <attvalue for="6" value="acusador" />
+          <attvalue for="7" value="acusador" />
+          <attvalue for="8" value="acusador" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

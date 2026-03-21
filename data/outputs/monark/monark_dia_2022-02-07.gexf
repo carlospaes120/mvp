@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-09">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="tweet_count" type="long" />
+      <attribute id="2" title="count_accusador" type="long" />
+      <attribute id="3" title="count_cetico" type="long" />
+      <attribute id="4" title="count_neutro" type="long" />
+      <attribute id="5" title="count_other" type="long" />
+      <attribute id="6" title="stances_present" type="string" />
+      <attribute id="7" title="dominant_stance" type="string" />
+      <attribute id="8" title="stance" type="string" />
+      <attribute id="9" title="is_mixed_stance" type="boolean" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="stance" type="string" />
+    </attributes>
+    <nodes>
+      <node id="@G_RodriguesJr" label="@G_RodriguesJr">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="@monark" label="@monark" />
+    </nodes>
+    <edges>
+      <edge source="@G_RodriguesJr" target="@monark" id="0" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="defensor" />
+          <attvalue for="7" value="defensor" />
+          <attvalue for="8" value="defensor" />
+          <attvalue for="9" value="false" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
