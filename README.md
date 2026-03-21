@@ -13,6 +13,18 @@ Repositório mínimo para o MVP do caso **Monark**: análise de hipótese 1 sobr
 | `reports/h1_monark/` | Saídas geradas pelo próprio notebook (métricas em janela, GEXF da hipótese 1, etc.). |
 | `src/` | Scripts chamados pelo notebook (`windowed_metrics.py`, `jsonl_to_gexf.py`, opcionalmente `ego_isolation_timeseries.py`) e pré-processamento `split_monark_jsonl_by_sp_time.py`. |
 
+## Organização temporal do caso Monark
+
+A estrutura temporal do caso Monark foi reorganizada da seguinte forma:
+
+- **PRE**: dias 07/02/2022 e 08/02/2022 agregados em um único arquivo:
+  - `monark_pre_2022-02-07_00-00_2022-02-08_23-59.*`
+- **Clímax em alta resolução**: recortes de 3h e 6h entre a noite de 08/02 e o dia 09/02.
+- **Pós-clímax**: arquivos diários de 10/02/2022 a 14/02/2022.
+- **Arquivos diários de 07/02, 08/02 e 09/02**: movidos para `data/archive/monark_daily_legacy/`.
+
+Essa organização foi adotada para refletir melhor a densidade real do evento e evitar redundância entre recortes diários e intradiários.
+
 ## Ambiente
 
 ```bash
