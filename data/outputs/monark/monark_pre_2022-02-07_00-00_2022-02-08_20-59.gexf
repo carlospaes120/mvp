@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-24">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="G_RodriguesJr" label="G_RodriguesJr" />
+      <node id="242967720" label="monark" />
+      <node id="monark" label="monark" />
+      <node id="juliolopvs" label="juliolopvs" />
+    </nodes>
+    <edges>
+      <edge source="G_RodriguesJr" target="242967720" id="0" weight="1.0" />
+      <edge source="G_RodriguesJr" target="monark" id="1" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
