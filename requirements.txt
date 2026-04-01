@@ -1,4 +1,8 @@
 pandas
+numpy
 networkx>=3.0
 python-louvain
 matplotlib
+requests
+seaborn
+scikit-learn

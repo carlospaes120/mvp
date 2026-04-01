@@ -32,3 +32,5 @@ twitter_cookies.json
 # OS
 *.tmp
 ~$*
+
+_colab_cache/
